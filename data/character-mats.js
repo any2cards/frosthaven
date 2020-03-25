@@ -1,74 +1,74 @@
 [
   {
-    "name": "aesther necromancer",
+    "name": "banner spear",
     "points": 0,
-    "image": "character-mats/aesther-necromancer.png",
-    "xws": "aesthernecromancer"
+    "image": "character-mats/banner-spear.png",
+    "xws": "bannerspear"
   },
   {
-    "name": "aesther necromancer",
+    "name": "banner spear",
     "points": 1,
-    "image": "character-mats/aesther-necromancer-back.png",
-    "xws": "aesthernecromancer"
+    "image": "character-mats/banner-spear-back.png",
+    "xws": "bannerspear"
   },
   {
-    "name": "harrower geminate",
+    "name": "blink blade",
     "points": 2,
-    "image": "character-mats/harrower-geminate.png",
-    "xws": "harrowergeminate"
+    "image": "character-mats/blink-blade.png",
+    "xws": "blinkblade"
   },
   {
-    "name": "harrower geminate",
+    "name": "blink blade",
     "points": 3,
-    "image": "character-mats/harrower-geminate-back.png",
-    "xws": "harrowergeminate"
+    "image": "character-mats/blink-blade-back.png",
+    "xws": "blinkblade"
   },
   {
-    "name": "human banner spear",
+    "name": "deathwalker",
     "points": 4,
-    "image": "character-mats/human-banner-spear.png",
-    "xws": "humanbannerspear"
+    "image": "character-mats/deathwalker.png",
+    "xws": "deathwalker"
   },
   {
-    "name": "human banner spear",
+    "name": "deathwalker",
     "points": 5,
-    "image": "character-mats/human-banner-spear-back.png",
-    "xws": "humanbannerspear"
+    "image": "character-mats/deathwalker-back.png",
+    "xws": "deathwalker"
   },
   {
-    "name": "inox drifter",
+    "name": "drifter",
     "points": 6,
-    "image": "character-mats/inox-drifter.png",
-    "xws": "inoxdrifter"
+    "image": "character-mats/drifter.png",
+    "xws": "drifter"
   },
   {
-    "name": "inox drifter",
+    "name": "drifter",
     "points": 7,
-    "image": "character-mats/inox-drifter-back.png",
-    "xws": "inoxdrifter"
+    "image": "character-mats/drifter-back.png",
+    "xws": "drifter"
   },
   {
-    "name": "quatryl blink blade",
+    "name": "geminate",
     "points": 8,
-    "image": "character-mats/quatryl-blink-blade.png",
-    "xws": "quatrylblinkblade"
+    "image": "character-mats/geminate.png",
+    "xws": "geminate"
   },
   {
-    "name": "quatryl blink blade",
+    "name": "geminate",
     "points": 9,
-    "image": "character-mats/quatryl-blink-blade-back.png",
-    "xws": "quatrylblinkblade"
+    "image": "character-mats/geminate-back.png",
+    "xws": "geminate"
   },
   {
-    "name": "valrath deathwalker",
+    "name": "necromancer",
     "points": 10,
-    "image": "character-mats/valrath-deathwalker.png",
-    "xws": "valrathdeathwalker"
+    "image": "character-mats/necromancer.png",
+    "xws": "necromancer"
   },
   {
-    "name": "valrath deathwalker",
+    "name": "necromancer",
     "points": 11,
-    "image": "character-mats/valrath-deathwalker-back.png",
-    "xws": "valrathdeathwalker"
+    "image": "character-mats/necromancer-back.png",
+    "xws": "necromancer"
   }
 ]
