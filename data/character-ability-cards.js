@@ -492,10 +492,10 @@
     "xws": "restlesssouls"
   },
   {
-    "name": "ritual sacrifice",
+    "name": "ritual sacrafice",
     "points": 82,
-    "image": "character-ability-cards/DW/ritual-sacrifice.png",
-    "xws": "ritualsacrifice"
+    "image": "character-ability-cards/DW/ritual-sacrafice.png",
+    "xws": "ritualsacrafice"
   },
   {
     "name": "shadow step",
