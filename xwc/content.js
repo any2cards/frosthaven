@@ -1,4 +1,5 @@
 const files = [
+  'attack-modifiers.js',
   'character-ability-cards.js',
   'character-mats.js',
   'character-perks.js',
