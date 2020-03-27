@@ -1,6 +1,7 @@
 const files = [
   'character-ability-cards.js',
   'character-mats.js',
+  'character-perks.js',
 ]
 
 const repoBaseUrl = 'https://raw.githubusercontent.com/any2cards/frosthaven/master';

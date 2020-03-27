@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Frosthaven Card Viewer",
   "description": "Adds card images when it finds card names from the Frosthaven game.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "web_accessible_resources": [
     "icon-32.png"
   ],
