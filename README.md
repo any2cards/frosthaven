@@ -47,7 +47,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [Frosthaven Card Viewer](https://chrome.google.com/webstore/search/frosthaven%20card%20viewer) (Chrome Extension)
+- [Frosthaven Card Viewer](https://chrome.google.com/webstore/detail/frosthaven-card-viewer/coehdclkpcehchglkfclpnjpiejeipab) (Chrome Extension)
+- [Frosthaven Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/frosthaven-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/frosthaven/issues/new?title=Add%20Project)
 
