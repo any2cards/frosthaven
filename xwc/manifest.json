@@ -2,13 +2,15 @@
   "manifest_version": 2,
   "name": "Frosthaven Card Viewer",
   "description": "Adds card images when it finds card names from the Frosthaven game.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "web_accessible_resources": [
     "icon-32.png"
   ],
   "content_scripts": [{
     "matches": [
       "*://*.boardgamegeek.com/*",
+	  "*://*.reddit.com/r/Gloomhaven/*",
+	  "*://*.facebook.com/groups/646259685567420/*",
 	  "*://any2cards.github.io/frosthaven/*"	  
     ],
     "js": [
