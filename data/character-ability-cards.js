@@ -898,5 +898,5 @@
     "points": 149,
     "image": "character-ability-cards/NE/unearthed-horror.png",
     "xws": "unearthedhorror"
-  },
+  }
 ]
