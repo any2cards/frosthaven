@@ -820,5 +820,83 @@
     "points": 136,
     "image": "character-ability-cards/NE/wretched-advance.png",
     "xws": "wretchedadvance"
-  }
+  },
+  {
+    "name": "trained falcon",
+    "points": 137,
+    "image": "character-ability-cards/BN/air-support.png",
+    "xws": "airsupport"
+  },
+  {
+    "name": "reinforcement",
+    "points": 138,
+    "image": "character-ability-cards/BN/at-all-costs.png",
+    "xws": "atallcosts"
+  },
+  {
+    "name": "banner of hope",
+    "points": 139,
+    "image": "character-ability-cards/BN/driving-inspiration.png",
+    "xws": "drivinginspiration"
+  },
+  {
+    "name": "torch bearer",
+    "points": 140,
+    "image": "character-ability-cards/BN/incendiary-throw.png",
+    "xws": "incendiarythrow"
+  },
+  {
+    "name": "banner of courage",
+    "points": 141,
+    "image": "character-ability-cards/BN/let-them-come.png",
+    "xws": "letthemcome"
+  },
+  {
+    "name": "banner of strength",
+    "points": 142,
+    "image": "character-ability-cards/BN/rallying-cry.png",
+    "xws": "rallyingcry"
+  },
+  {
+    "name": "shadow beast",
+    "points": 143,
+    "image": "character-ability-cards/DW/sunless-apparition.png",
+    "xws": "sunlessapparition"
+  },
+  {
+    "name": "wraith",
+    "points": 144,
+    "image": "character-ability-cards/NE/angry-spirits.png",
+    "xws": "angryspirits"
+  },
+  {
+    "name": "shambling skeleton",
+    "points": 145,
+    "image": "character-ability-cards/NE/called-from-beyond.png",
+    "xws": "calledfrombeyond"
+  },
+  {
+    "name": "shambling skeleton",
+    "points": 146,
+    "image": "character-ability-cards/NE/damned-horde.png",
+    "xws": "damnedhorde"
+  },
+  {
+    "name": "shambling skeleton",
+    "points": 147,
+    "image": "character-ability-cards/NE/grave-digging.png",
+    "xws": "gravedigging"
+  },
+  {
+    "name": "shambling skeleton",
+    "points": 148,
+    "image": "character-ability-cards/NE/life-in-death.png",
+    "xws": "lifeindeath"
+  },
+  {
+    "name": "raging corpse",
+    "points": 149,
+    "image": "character-ability-cards/NE/unearthed-horror.png",
+    "xws": "unearthedhorror"
+  },
 ]
