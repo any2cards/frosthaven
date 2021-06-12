@@ -914,7 +914,7 @@
   {
     "name": "dominate",
     "points": 152,
-    "image": "character-ability-cards/DW/domminate.png",
+    "image": "character-ability-cards/DW/dominate.png",
     "xws": "dominate"
   },
   {
