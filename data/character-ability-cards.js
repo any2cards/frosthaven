@@ -1056,40 +1056,40 @@
     "xws": "whenyourtimecomes"
   },
   {
-    "name": "ge-back-left",
+    "name": "ge-back",
     "points": 176,
-    "image": "character-ability-cards/GE/ge-back-left.png",
-    "xws": "gebackleft"
+    "image": "character-ability-cards/GE/ge-back.png",
+    "xws": "geback"
   },
   {
-    "name": "ge-back-right",
+    "name": "accelerated metabolism",
     "points": 177,
-    "image": "character-ability-cards/GE/ge-back-right.png",
-    "xws": "gebackright"
+    "image": "character-ability-cards/GE/accelerated-metabolism.png",
+    "xws": "acceleratedmetabolism"
   },
   {
-    "name": "ge-reference",
+    "name": "alluirng pheromones",
     "points": 178,
-    "image": "character-ability-cards/GE/ge-reference.png",
-    "xws": "gereference"
-  },
-  {
-    "name": "ge-reference-back",
-    "points": 179,
-    "image": "character-ability-cards/GE/ge-reference-back.png",
-    "xws": "gereferenceback"
-  },
-  {
-    "name": "ambitious dare",
-    "points": 180,
-    "image": "character-ability-cards/GE/ambitious-dare.png",
-    "xws": "ambitiousdare"
+    "image": "character-ability-cards/GE/alluring-pheromones.png",
+    "xws": "alluringpheromones"
   },
   {
     "name": "changeling's boon",
-    "points": 181,
+    "points": 179,
     "image": "character-ability-cards/GE/changelings-boon.png",
     "xws": "changelingsboon"
+  },
+  {
+    "name": "chitinous horde",
+    "points": 180,
+    "image": "character-ability-cards/GE/chitinous-horde.png",
+    "xws": "chitinoushorde"
+  },
+  {
+    "name": "corrosive acids",
+    "points": 181,
+    "image": "character-ability-cards/GE/corrosive-acids.png",
+    "xws": "corrosiveacids"
   },
   {
     "name": "drag down",
@@ -1098,129 +1098,171 @@
     "xws": "dragdown"
   },
   {
-    "name": "draining pincers",
+    "name": "dragonfly surge",
     "points": 183,
+    "image": "character-ability-cards/GE/dragonfly-surge.png",
+    "xws": "dragonflysurge"
+  },
+  {
+    "name": "draining pincers",
+    "points": 184,
     "image": "character-ability-cards/GE/draining-pincers.png",
     "xws": "drainingpincers"
   },
   {
-    "name": "fire bugs",
-    "points": 184,
-    "image": "character-ability-cards/GE/fire-bugs.png",
-    "xws": "firebugs"
+    "name": "feeding frenzy",
+    "points": 185,
+    "image": "character-ability-cards/GE/feeding-frenzy.png",
+    "xws": "feedingfrenzy"
   },
   {
     "name": "firefly swarm",
-    "points": 185,
+    "points": 186,
     "image": "character-ability-cards/GE/firefly-swarm.png",
     "xws": "fireflyswarm"
   },
   {
     "name": "flailing tendrils",
-    "points": 186,
+    "points": 187,
     "image": "character-ability-cards/GE/flailing-tendrils.png",
     "xws": "flailingtendrils"
   },
   {
-    "name": "flaring hatred",
-    "points": 187,
-    "image": "character-ability-cards/GE/flaring-hatred.png",
-    "xws": "flaringhatred"
+    "name": "formless grace",
+    "points": 188,
+    "image": "character-ability-cards/GE/formless-grace.png",
+    "xws": "formlessgrace"
   },
   {
-    "name": "frost heave",
-    "points": 188,
-    "image": "character-ability-cards/GE/frost-heave.png",
-    "xws": "frostheave"
+    "name": "hail of thorns",
+    "points": 189,
+    "image": "character-ability-cards/GE/hail-of-thorns.png",
+    "xws": "hailofthorns"
+  },
+  {
+    "name": "harbinger of ruin",
+    "points": 190,
+    "image": "character-ability-cards/GE/harbinger-of-ruin.png",
+    "xws": "harbingerofruin"
   },
   {
     "name": "harvest the essence",
-    "points": 189,
+    "points": 191,
     "image": "character-ability-cards/GE/harvest-the-essence.png",
     "xws": "harvesttheessence"
   },
   {
     "name": "hirudotherapy",
-    "points": 190,
+    "points": 192,
     "image": "character-ability-cards/GE/hirudotherapy.png",
     "xws": "hirudotherapy"
   },
   {
     "name": "hornbeetle carapace",
-    "points": 191,
+    "points": 193,
     "image": "character-ability-cards/GE/hornbeetle-carapace.png",
     "xws": "hornbeetlecarapace"
   },
   {
-    "name": "hornet stinger",
-    "points": 192,
-    "image": "character-ability-cards/GE/hornet-stinger.png",
-    "xws": "hornetstinger"
+    "name": "hornet stingers",
+    "points": 194,
+    "image": "character-ability-cards/GE/hornet-stingers.png",
+    "xws": "hornetstingers"
+  },
+  {
+    "name": "icebound quills",
+    "points": 195,
+    "image": "character-ability-cards/GE/icebound-quills.png",
+    "xws": "iceboundquills"
   },
   {
     "name": "into my embrace",
-    "points": 193,
+    "points": 196,
     "image": "character-ability-cards/GE/into-my-embrace.png",
     "xws": "intomyembrace"
   },
   {
     "name": "locust host",
-    "points": 194,
+    "points": 197,
     "image": "character-ability-cards/GE/locust-host.png",
     "xws": "locusthost"
   },
   {
+    "name": "luminous descent",
+    "points": 198,
+    "image": "character-ability-cards/GE/luminous-descent.png",
+    "xws": "luminousdescent"
+  },
+  {
     "name": "mandible storm",
-    "points": 195,
+    "points": 199,
     "image": "character-ability-cards/GE/mandible-storm.png",
     "xws": "mandiblestorm"
   },
   {
     "name": "mind spike",
-    "points": 196,
+    "points": 200,
     "image": "character-ability-cards/GE/mind-spike.png",
     "xws": "mindspike"
   },
   {
-    "name": "radiant flight",
-    "points": 197,
-    "image": "character-ability-cards/GE/radiant-flight.png",
-    "xws": "radiantflight"
+    "name": "oscillating entity",
+    "points": 201,
+    "image": "character-ability-cards/GE/oscillating-entity.png",
+    "xws": "oscillatingentity"
+  },
+  {
+    "name": "reckless jab",
+    "points": 202,
+    "image": "character-ability-cards/GE/reckless-jab.png",
+    "xws": "recklessjab"
   },
   {
     "name": "reshape the guise",
-    "points": 198,
+    "points": 203,
     "image": "character-ability-cards/GE/reshape-the-guise.png",
     "xws": "reshapetheguise"
   },
   {
-    "name": "rupturing skin",
-    "points": 199,
-    "image": "character-ability-cards/GE/rupturing-skin.png",
-    "xws": "rupturingskin"
-  },
-  {
     "name": "scarab flight",
-    "points": 200,
+    "points": 204,
     "image": "character-ability-cards/GE/scarab-flight.png",
     "xws": "scarabflight"
   },
   {
     "name": "selfless offering",
-    "points": 201,
+    "points": 205,
     "image": "character-ability-cards/GE/selfless-offering.png",
     "xws": "selflessoffering"
   },
   {
-    "name": "sweeping stingers",
-    "points": 202,
-    "image": "character-ability-cards/GE/sweeping-stingers.png",
-    "xws": "sweepingstingers"
+    "name": "smoldering hatred",
+    "points": 206,
+    "image": "character-ability-cards/GE/smoldering-hatred.png",
+    "xws": "smolderinghatred"
   },
   {
     "name": "thresh and flail",
-    "points": 203,
+    "points": 207,
     "image": "character-ability-cards/GE/thresh-and-flail.png",
     "xws": "threshandflail"
+  },
+  {
+    "name": "two-pronged entrapment",
+    "points": 208,
+    "image": "character-ability-cards/GE/two-pronged-entrapment.png",
+    "xws": "twoprongedentrapment"
+  },
+  {
+    "name": "venomous barbs",
+    "points": 209,
+    "image": "character-ability-cards/GE/venomous-barbs.png",
+    "xws": "venomousbarbs"
+  },
+  {
+    "name": "voice of salvation",
+    "points": 210,
+    "image": "character-ability-cards/GE/voice-of-salvation.png",
+    "xws": "voiceofsalvation"
   }
 ]
