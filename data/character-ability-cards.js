@@ -6,18 +6,6 @@
     "xws": "bbback"
   },
   {
-    "name": "bb-reference",
-    "points": 1,
-    "image": "character-ability-cards/BB/bb-reference.png",
-    "xws": "bbreference"
-  },
-  {
-    "name": "bb-reference-back",
-    "points": 2,
-    "image": "character-ability-cards/BB/bb-reference-back.png",
-    "xws": "bbreferenceback"
-  },
-  {
     "name": "blurry jab",
     "points": 3,
     "image": "character-ability-cards/BB/blurry-jab.png",
@@ -28,6 +16,12 @@
     "points": 4,
     "image": "character-ability-cards/BB/borrowed-time.png",
     "xws": "borrowedtime"
+  },
+  {
+    "name": "breakneck speed",
+    "points": 4,
+    "image": "character-ability-cards/BB/breakneck-speed.png",
+    "xws": "breakneckspeed"
   },
   {
     "name": "cascading reaction",
@@ -54,6 +48,24 @@
     "xws": "experimentaladjustment"
   },
   {
+    "name": "fastest alive",
+    "points": 8,
+    "image": "character-ability-cards/BB/fastest-alive.png",
+    "xws": "fastestalive"
+  },
+  {
+    "name": "flashing flurry",
+    "points": 8,
+    "image": "character-ability-cards/BB/flashing-flurry.png",
+    "xws": "flashingflurry"
+  },
+  {
+    "name": "fractured timeline",
+    "points": 8,
+    "image": "character-ability-cards/BB/fractured-timeline.png",
+    "xws": "fracturedtimeline"
+  },
+  {
     "name": "hit and run",
     "points": 9,
     "image": "character-ability-cards/BB/hit-and-run.png",
@@ -78,6 +90,12 @@
     "xws": "overdrive"
   },
   {
+    "name": "phasing blades",
+    "points": 12,
+    "image": "character-ability-cards/BB/phasing-blades.png",
+    "xws": "phasingblades"
+  },
+  {
     "name": "potential energy",
     "points": 13,
     "image": "character-ability-cards/BB/potential-energy.png",
@@ -96,10 +114,28 @@
     "xws": "precisiontiming"
   },
   {
+    "name": "quantum uncertainty",
+    "points": 16,
+    "image": "character-ability-cards/BB/quantum-uncertainty.png",
+    "xws": "quantumuncertainty"
+  },
+  {
     "name": "reckless augmentation",
     "points": 16,
     "image": "character-ability-cards/BB/reckless-augmentation.png",
     "xws": "recklessaugmentation"
+  },
+  {
+    "name": "reverse the flow",
+    "points": 16,
+    "image": "character-ability-cards/BB/reverse-the-flow.png",
+    "xws": "reversetheflow"
+  },
+  {
+    "name": "rushed to the end",
+    "points": 16,
+    "image": "character-ability-cards/BB/rushed-to-the-end.png",
+    "xws": "rushedtotheend"
   },
   {
     "name": "sand in the hourglass",
@@ -114,6 +150,12 @@
     "xws": "sapspeed"
   },
   {
+    "name": "stab them all",
+    "points": 18,
+    "image": "character-ability-cards/BB/stab-them-all.png",
+    "xws": "stabthemall"
+  },
+  {
     "name": "systems reboot",
     "points": 19,
     "image": "character-ability-cards/BB/systems-reboot.png",
@@ -124,6 +166,12 @@
     "points": 20,
     "image": "character-ability-cards/BB/temporal-displacement.png",
     "xws": "temporaldisplacement"
+  },
+  {
+    "name": "the knife's edge",
+    "points": 20,
+    "image": "character-ability-cards/BB/the-knifes-edge.png",
+    "xws": "theknifesedge"
   },
   {
     "name": "twin strike",
