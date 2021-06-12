@@ -1068,7 +1068,7 @@
     "xws": "acceleratedmetabolism"
   },
   {
-    "name": "alluirng pheromones",
+    "name": "alluring pheromones",
     "points": 178,
     "image": "character-ability-cards/GE/alluring-pheromones.png",
     "xws": "alluringpheromones"
