@@ -6,33 +6,33 @@
     "xws": "bannerspearperks"
   },
   {
-    "name": "blink blade perks",
+    "name": "blinkblade perks",
     "points": 1,
-    "image": "character-perks/blink-blade-perks.png",
+    "image": "character-perks/blinkblade-perks.png",
     "xws": "blinkbladeperks"
   },
   {
-    "name": "deathwalker perks",
+    "name": "boneshaper perks",
     "points": 2,
+    "image": "character-perks/boneshaper-perks.png",
+    "xws": "boneshaperperks"
+  },
+  {
+    "name": "deathwalker perks",
+    "points": 3,
     "image": "character-perks/deathwalker-perks.png",
     "xws": "deathwalkerperks"
   },
   {
     "name": "drifter perks",
-    "points": 3,
+    "points": 4,
     "image": "character-perks/drifter-perks.png",
     "xws": "drifterperks"
   },
   {
     "name": "geminate perks",
-    "points": 4,
+    "points": 5,
     "image": "character-perks/geminate-perks.png",
     "xws": "geminateperks"
-  },
-  {
-    "name": "necromancer perks",
-    "points": 5,
-    "image": "character-perks/necromancer-perks.png",
-    "xws": "necromancerperks"
   }
 ]
