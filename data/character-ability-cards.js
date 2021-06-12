@@ -864,58 +864,58 @@
     "xws": "dwback"
   },
   {
-    "name": "dw-reference",
-    "points": 144,
-    "image": "character-ability-cards/DW/dw-reference.png",
-    "xws": "dwreference"
-  },
-  {
-    "name": "dw-reference-back",
-    "points": 145,
-    "image": "character-ability-cards/DW/dw-reference-back.png",
-    "xws": "dwreferenceback"
-  },
-  {
     "name": "anger of the dead",
-    "points": 146,
+    "points": 144,
     "image": "character-ability-cards/DW/anger-of-the-dead.png",
     "xws": "angerofthedead"
   },
   {
     "name": "black barrage",
-    "points": 147,
+    "points": 145,
     "image": "character-ability-cards/DW/black-barrage.png",
     "xws": "blackbarrage"
   },
   {
+    "name": "black lance",
+    "points": 146,
+    "image": "character-ability-cards/DW/black-lance.png",
+    "xws": "blacklance"
+  },
+  {
     "name": "call of doom",
-    "points": 148,
+    "points": 147,
     "image": "character-ability-cards/DW/call-of-doom.png",
     "xws": "callofdoom"
   },
   {
     "name": "call to the abyss",
-    "points": 149,
+    "points": 148,
     "image": "character-ability-cards/DW/call-to-the-abyss.png",
     "xws": "calltotheabyss"
   },
   {
     "name": "dark fog",
-    "points": 150,
+    "points": 149,
     "image": "character-ability-cards/DW/dark-fog.png",
     "xws": "darkfog"
   },
   {
     "name": "dead bolt",
-    "points": 151,
+    "points": 150,
     "image": "character-ability-cards/DW/dead-bolt.png",
     "xws": "deadbolt"
   },
   {
     "name": "deepening despair",
-    "points": 152,
+    "points": 151,
     "image": "character-ability-cards/DW/deepening-despair.png",
     "xws": "deepeningdespair"
+  },
+  {
+    "name": "dominate",
+    "points": 152,
+    "image": "character-ability-cards/DW/domminate.png",
+    "xws": "dominate"
   },
   {
     "name": "eclipse",
@@ -942,230 +942,284 @@
     "xws": "forcefulspirits"
   },
   {
-    "name": "lingering rot",
+    "name": "frozen in fear",
     "points": 157,
+    "image": "character-ability-cards/DW/frozen-in-fear.png",
+    "xws": "frozeninfear"
+  },
+  {
+    "name": "hungry grasps",
+    "points": 158,
+    "image": "character-ability-cards/DW/hungry-grasps.png",
+    "xws": "hungrygrasps"
+  },
+  {
+    "name": "lashing tendrils",
+    "points": 159,
+    "image": "character-ability-cards/DW/lashing-tendrils.png",
+    "xws": "lashingtendrils"
+  },
+  {
+    "name": "lingering rot",
+    "points": 160,
     "image": "character-ability-cards/DW/lingering-rot.png",
     "xws": "lingeringrot"
   },
   {
+    "name": "medium",
+    "points": 161,
+    "image": "character-ability-cards/DW/medium.png",
+    "xws": "medium"
+  },
+  {
+    "name": "proliferation of the abyss",
+    "points": 162,
+    "image": "character-ability-cards/DW/proliferation-of-the-abyss.png",
+    "xws": "proliferationoftheabyss"
+  },
+  {
     "name": "pulled across",
-    "points": 158,
+    "points": 163,
     "image": "character-ability-cards/DW/pulled-across.png",
     "xws": "pulledacross"
   },
   {
     "name": "rest in the shade",
-    "points": 159,
+    "points": 164,
     "image": "character-ability-cards/DW/rest-in-the-shade.png",
     "xws": "restintheshade"
   },
   {
-    "name": "restless souls",
-    "points": 160,
-    "image": "character-ability-cards/DW/restless-souls.png",
-    "xws": "restlesssouls"
+    "name": "restless spirits",
+    "points": 165,
+    "image": "character-ability-cards/DW/restless-spirits.png",
+    "xws": "restlessspirits"
   },
   {
     "name": "ritual sacrafice",
-    "points": 161,
+    "points": 166,
     "image": "character-ability-cards/DW/ritual-sacrafice.png",
     "xws": "ritualsacrafice"
   },
   {
     "name": "shadow step",
-    "points": 162,
+    "points": 167,
     "image": "character-ability-cards/DW/shadow-step.png",
     "xws": "shadowstep"
   },
   {
     "name": "strength of the abyss",
-    "points": 163,
+    "points": 168,
     "image": "character-ability-cards/DW/strength-of-the-abyss.png",
     "xws": "strengthoftheabyss"
   },
   {
     "name": "sunless apparition",
-    "points": 164,
+    "points": 169,
     "image": "character-ability-cards/DW/sunless-apparition.png",
     "xws": "sunlessapparition"
   },
   {
     "name": "shadow beast",
-    "points": 165,
+    "points": 170,
     "image": "character-ability-cards/DW/sunless-apparition.png",
     "xws": "sunlessapparition"
   },
   {
+    "name": "the night takes shape",
+    "points": 171,
+    "image": "character-ability-cards/DW/the-night-takes-shape.png",
+    "xws": "thenighttakesshape"
+  },
+  {
+    "name": "shadow horror",
+    "points": 172,
+    "image": "character-ability-cards/DW/the-night-takes-shape.png",
+    "xws": "thenighttakesshape"
+  },
+  {
+    "name": "vengeful storm",
+    "points": 173,
+    "image": "character-ability-cards/DW/vengeful-storm.png",
+    "xws": "vengefulstorm"
+  },
+  {
     "name": "wave of anguish",
-    "points": 166,
+    "points": 174,
     "image": "character-ability-cards/DW/wave-of-anguish.png",
     "xws": "waveofanguish"
   },
   {
+    "name": "when your time comes",
+    "points": 175,
+    "image": "character-ability-cards/DW/when-your-time-comes.png",
+    "xws": "whenyourtimecomes"
+  },
+  {
     "name": "ge-back-left",
-    "points": 167,
+    "points": 176,
     "image": "character-ability-cards/GE/ge-back-left.png",
     "xws": "gebackleft"
   },
   {
     "name": "ge-back-right",
-    "points": 168,
+    "points": 177,
     "image": "character-ability-cards/GE/ge-back-right.png",
     "xws": "gebackright"
   },
   {
     "name": "ge-reference",
-    "points": 169,
+    "points": 178,
     "image": "character-ability-cards/GE/ge-reference.png",
     "xws": "gereference"
   },
   {
     "name": "ge-reference-back",
-    "points": 170,
+    "points": 179,
     "image": "character-ability-cards/GE/ge-reference-back.png",
     "xws": "gereferenceback"
   },
   {
     "name": "ambitious dare",
-    "points": 171,
+    "points": 180,
     "image": "character-ability-cards/GE/ambitious-dare.png",
     "xws": "ambitiousdare"
   },
   {
     "name": "changeling's boon",
-    "points": 172,
+    "points": 181,
     "image": "character-ability-cards/GE/changelings-boon.png",
     "xws": "changelingsboon"
   },
   {
     "name": "drag down",
-    "points": 173,
+    "points": 182,
     "image": "character-ability-cards/GE/drag-down.png",
     "xws": "dragdown"
   },
   {
     "name": "draining pincers",
-    "points": 174,
+    "points": 183,
     "image": "character-ability-cards/GE/draining-pincers.png",
     "xws": "drainingpincers"
   },
   {
     "name": "fire bugs",
-    "points": 175,
+    "points": 184,
     "image": "character-ability-cards/GE/fire-bugs.png",
     "xws": "firebugs"
   },
   {
     "name": "firefly swarm",
-    "points": 176,
+    "points": 185,
     "image": "character-ability-cards/GE/firefly-swarm.png",
     "xws": "fireflyswarm"
   },
   {
     "name": "flailing tendrils",
-    "points": 177,
+    "points": 186,
     "image": "character-ability-cards/GE/flailing-tendrils.png",
     "xws": "flailingtendrils"
   },
   {
     "name": "flaring hatred",
-    "points": 178,
+    "points": 187,
     "image": "character-ability-cards/GE/flaring-hatred.png",
     "xws": "flaringhatred"
   },
   {
     "name": "frost heave",
-    "points": 179,
+    "points": 188,
     "image": "character-ability-cards/GE/frost-heave.png",
     "xws": "frostheave"
   },
   {
     "name": "harvest the essence",
-    "points": 180,
+    "points": 189,
     "image": "character-ability-cards/GE/harvest-the-essence.png",
     "xws": "harvesttheessence"
   },
   {
     "name": "hirudotherapy",
-    "points": 181,
+    "points": 190,
     "image": "character-ability-cards/GE/hirudotherapy.png",
     "xws": "hirudotherapy"
   },
   {
     "name": "hornbeetle carapace",
-    "points": 182,
+    "points": 191,
     "image": "character-ability-cards/GE/hornbeetle-carapace.png",
     "xws": "hornbeetlecarapace"
   },
   {
     "name": "hornet stinger",
-    "points": 183,
+    "points": 192,
     "image": "character-ability-cards/GE/hornet-stinger.png",
     "xws": "hornetstinger"
   },
   {
     "name": "into my embrace",
-    "points": 184,
+    "points": 193,
     "image": "character-ability-cards/GE/into-my-embrace.png",
     "xws": "intomyembrace"
   },
   {
     "name": "locust host",
-    "points": 185,
+    "points": 194,
     "image": "character-ability-cards/GE/locust-host.png",
     "xws": "locusthost"
   },
   {
     "name": "mandible storm",
-    "points": 186,
+    "points": 195,
     "image": "character-ability-cards/GE/mandible-storm.png",
     "xws": "mandiblestorm"
   },
   {
     "name": "mind spike",
-    "points": 187,
+    "points": 196,
     "image": "character-ability-cards/GE/mind-spike.png",
     "xws": "mindspike"
   },
   {
     "name": "radiant flight",
-    "points": 188,
+    "points": 197,
     "image": "character-ability-cards/GE/radiant-flight.png",
     "xws": "radiantflight"
   },
   {
     "name": "reshape the guise",
-    "points": 189,
+    "points": 198,
     "image": "character-ability-cards/GE/reshape-the-guise.png",
     "xws": "reshapetheguise"
   },
   {
     "name": "rupturing skin",
-    "points": 190,
+    "points": 199,
     "image": "character-ability-cards/GE/rupturing-skin.png",
     "xws": "rupturingskin"
   },
   {
     "name": "scarab flight",
-    "points": 191,
+    "points": 200,
     "image": "character-ability-cards/GE/scarab-flight.png",
     "xws": "scarabflight"
   },
   {
     "name": "selfless offering",
-    "points": 192,
+    "points": 201,
     "image": "character-ability-cards/GE/selfless-offering.png",
     "xws": "selflessoffering"
   },
   {
     "name": "sweeping stingers",
-    "points": 193,
+    "points": 202,
     "image": "character-ability-cards/GE/sweeping-stingers.png",
     "xws": "sweepingstingers"
   },
   {
     "name": "thresh and flail",
-    "points": 194,
+    "points": 203,
     "image": "character-ability-cards/GE/thresh-and-flail.png",
     "xws": "threshandflail"
   }
