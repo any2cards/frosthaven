@@ -1,6 +1,6 @@
-# Frosthaven
+# Frosthaven (FH)
 
-An easy-to-use collection of data and images from [Frosthaven] (http://www.cephalofair.com/frosthaven) by [Cephalofair Games] (http://www.cephalofair.com/) [Developer: Isaac Childres].
+An easy-to-use collection of data and images from [Frosthaven](http://www.cephalofair.com/frosthaven) by [Cephalofair Games](http://www.cephalofair.com/) **Developer: Isaac Childres**.
 
 ## What's included
 
@@ -11,15 +11,19 @@ This repository contains data and images for the following components:
 - character-mats
 - character-perks
 
-There are two top-level directories; `data` and `images`.
+There are three top-level directories; `data` , `images` ,and `xwc`.
 
 ### data
 
-The `data` folder contains all Frosthaven data in JSON format.
+The `data` folder contains all FH Card Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains images for each of the above components.
+The `images` folder contains all FH Card Viewer images for each of the above components.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the FH Card Viewer Chrome Extension/Firefox Add-On.
 
 ## Usage
 
@@ -47,8 +51,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [Frosthaven Card Viewer](https://chrome.google.com/webstore/detail/frosthaven-card-viewer/coehdclkpcehchglkfclpnjpiejeipab) (Chrome Extension)
-- [Frosthaven Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/frosthaven-card-viewer/) (Firefox Add-On)
+- [FH Card Viewer](https://chrome.google.com/webstore/detail/frosthaven-card-viewer/coehdclkpcehchglkfclpnjpiejeipab) (Chrome Extension)
+- [FH Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/frosthaven-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/frosthaven/issues/new?title=Add%20Project)
 
