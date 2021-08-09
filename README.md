@@ -1,6 +1,6 @@
 # Frosthaven (FH)
 
-An easy-to-use collection of data and images from [Frosthaven](http://www.cephalofair.com/frosthaven) by [Cephalofair Games](http://www.cephalofair.com/) **Developer: Isaac Childres**.
+An easy-to-use collection of data and images from [Frosthaven](http://www.cephalofair.com/frosthaven) by [Cephalofair Games](http://www.cephalofair.com/) : **Developer: Isaac Childres**.
 
 ## What's included
 
