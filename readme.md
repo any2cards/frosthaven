@@ -10,6 +10,8 @@ This repository contains data and images for the following components:
 - character-ability-cards
 - character-mats
 - character-perks
+- monster-ability-cards
+- monster-stat-cards
 
 There are three top-level directories; `data` , `images` ,and `xwc`.
 
