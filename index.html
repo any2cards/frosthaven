@@ -37,6 +37,9 @@
 				border: 1px solid #9999ff;
 				background-color: #dddddd;
 			}
+			.table-padded td {
+				padding: 0px 20px 0px 30px;
+			}
 		</style>
 		<script>
 			// at statup hide all
@@ -52,13 +55,13 @@
 					var LinkedTextZone = $(this).next();
 
 					if (Icon.hasClass('fa-plus')) {
-						//switch icin from + to -
+						//switch icon from + to -
 						Icon.removeClass('fa-plus').addClass('fa-minus');
 						//expand text Zone
 						LinkedTextZone.slideDown();
 					}
 					else {
-						//switch icin from - to +
+						//switch icon from - to +
 						Icon.removeClass('fa-minus').addClass('fa-plus');
 						//collapse text Zone
 						LinkedTextZone.slideUp();
@@ -109,154 +112,85 @@
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Banner Spear </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-bn-01</li>
-									<li>am-bn-02</li>
-									<li>am-bn-03</li>
-									<li>am-bn-04</li>
-									<li>am-bn-05</li>
-									<li>am-bn-06</li>
-									<li>am-bn-07</li>
-									<li>am-bn-08</li>
-									<li>am-bn-09</li>
-									<li>am-bn-10</li>
-									<li>am-bn-11</li>
-									<li>am-bn-12</li>
-									<li>am-bn-13</li>
-									<li>am-bn-14</li>
-									<li>am-bn-15</li>
-									<li>am-bn-16</li>
-									<li>am-bn-17</li>
-									<li>am-bn-18</li>
-									<li>am-bn-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-bn-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-bn-01</td><td>am-bn-06</td><td>am-bn-11</td><td>am-bn-16</td></tr>
+									<tr><td>am-bn-02</td><td>am-bn-07</td><td>am-bn-12</td><td>am-bn-17</td></tr>
+									<tr><td>am-bn-03</td><td>am-bn-08</td><td>am-bn-13</td><td>am-bn-18</td></tr>
+									<tr><td>am-bn-04</td><td>am-bn-09</td><td>am-bn-14</td></tr>
+									<tr><td>am-bn-05</td><td>am-bn-10</td><td>am-bn-15</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Blinkblade </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-bb-01</li>
-									<li>am-bb-02</li>
-									<li>am-bb-03</li>
-									<li>am-bb-04</li>
-									<li>am-bb-05</li>
-									<li>am-bb-06</li>
-									<li>am-bb-07</li>
-									<li>am-bb-08</li>
-									<li>am-bb-09</li>
-									<li>am-bb-10</li>
-									<li>am-bb-11</li>
-									<li>am-bb-12</li>
-									<li>am-bb-13</li>
-									<li>am-bb-14</li>
-									<li>am-bb-15</li>
-									<li>am-bb-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-bb-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-bb-01</td><td>am-bb-06</td><td>am-bb-11</td></tr>
+									<tr><td>am-bb-02</td><td>am-bb-07</td><td>am-bb-12</td></tr>
+									<tr><td>am-bb-03</td><td>am-bb-08</td><td>am-bb-13</td></tr>
+									<tr><td>am-bb-04</td><td>am-bb-09</td><td>am-bb-14</td></tr>
+									<tr><td>am-bb-05</td><td>am-bb-10</td><td>am-bb-15</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Boneshaper </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-bo-01</li>
-									<li>am-bo-02</li>
-									<li>am-bo-03</li>
-									<li>am-bo-04</li>
-									<li>am-bo-05</li>
-									<li>am-bo-06</li>
-									<li>am-bo-07</li>
-									<li>am-bo-08</li>
-									<li>am-bo-09</li>
-									<li>am-bo-10</li>
-									<li>am-bo-11</li>
-									<li>am-bo-12</li>
-									<li>am-bo-13</li>
-									<li>am-bo-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-bo-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-bo-01</td><td>am-bo-06</td><td>am-bo-11</td></tr>
+									<tr><td>am-bo-02</td><td>am-bo-07</td><td>am-bo-12</td></tr>
+									<tr><td>am-bo-03</td><td>am-bo-08</td><td>am-bo-13</td></tr>
+									<tr><td>am-bo-04</td><td>am-bo-09</td></tr>
+									<tr><td>am-bo-05</td><td>am-bo-10</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Drifter </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-df-01</li>
-									<li>am-df-02</li>
-									<li>am-df-03</li>
-									<li>am-df-04</li>
-									<li>am-df-05</li>
-									<li>am-df-06</li>
-									<li>am-df-07</li>
-									<li>am-df-08</li>
-									<li>am-df-09</li>
-									<li>am-df-10</li>
-									<li>am-df-11</li>
-									<li>am-df-12</li>
-									<li>am-df-13</li>
-									<li>am-df-14</li>
-									<li>am-df-15</li>
-									<li>am-df-16</li>
-									<li>am-df-17</li>
-									<li>am-df-18</li>
-									<li>am-df-19</li>
-									<li>am-df-20</li>
-									<li>am-df-21</li>
-									<li>am-df-22</li>
-									<li>am-df-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-df-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-df-01</td><td>am-df-06</td><td>am-df-11</td><td>am-df-16</td><td>am-df-21</td></tr>
+									<tr><td>am-df-02</td><td>am-df-07</td><td>am-df-12</td><td>am-df-17</td><td>am-df-22</td></tr>
+									<tr><td>am-df-03</td><td>am-df-08</td><td>am-df-13</td><td>am-df-18</td></tr>
+									<tr><td>am-df-04</td><td>am-df-09</td><td>am-df-14</td><td>am-df-19</td></tr>
+									<tr><td>am-df-05</td><td>am-df-10</td><td>am-df-15</td><td>am-df-20</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Deathwalker </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-dw-01</li>
-									<li>am-dw-02</li>
-									<li>am-dw-03</li>
-									<li>am-dw-04</li>
-									<li>am-dw-05</li>
-									<li>am-dw-06</li>
-									<li>am-dw-07</li>
-									<li>am-dw-08</li>
-									<li>am-dw-09</li>
-									<li>am-dw-10</li>
-									<li>am-dw-11</li>
-									<li>am-dw-12</li>
-									<li>am-dw-13</li>
-									<li>am-dw-14</li>
-									<li>am-dw-15</li>
-									<li>am-dw-16</li>
-									<li>am-dw-17</li>
-									<li>am-dw-18</li>
-									<li>am-dw-19</li>
-									<li>am-dw-20</li>
-									<li>am-dw-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-dw-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-dw-01</td><td>am-dw-06</td><td>am-dw-11</td><td>am-dw-16</td></tr>
+									<tr><td>am-dw-02</td><td>am-dw-07</td><td>am-dw-12</td><td>am-dw-17</td></tr>
+									<tr><td>am-dw-03</td><td>am-dw-08</td><td>am-dw-13</td><td>am-dw-18</td></tr>
+									<tr><td>am-dw-04</td><td>am-dw-09</td><td>am-dw-14</td><td>am-dw-19</td></tr>
+									<tr><td>am-dw-05</td><td>am-dw-10</td><td>am-dw-15</td><td>am-dw-20</td></tr>
+								</table>
 							</div>
 						</div>
 						<div class="accordion">
 							<h2><i class="fa fa-plus"></i> Geminate </h2>
 							<div class="TextZone">
-								<ul>
-									<li>am-ge-01</li>
-									<li>am-ge-02</li>
-									<li>am-ge-03</li>
-									<li>am-ge-04</li>
-									<li>am-ge-05</li>
-									<li>am-ge-06</li>
-									<li>am-ge-07</li>
-									<li>am-ge-08</li>
-									<li>am-ge-09</li>
-									<li>am-ge-10</li>
-									<li>am-ge-11</li>
-									<li>am-ge-12</li>
-									<li>am-ge-13</li>
-									<li>am-ge-14</li>
-									<li>am-ge-15</li>
-									<li>am-ge-16</li>
-									<li>am-ge-17</li>
-									<li>am-ge-back</li>
-								</ul>
+								<table class="table-padded">
+									<tr><td>am-ge-back</td></tr>
+									<tr><td>&nbsp</td></tr>
+									<tr><td>am-ge-01</td><td>am-ge-06</td><td>am-ge-11</td><td>am-ge-16</td></tr>
+									<tr><td>am-ge-02</td><td>am-ge-07</td><td>am-ge-12</td><td>am-ge-17</td></tr>
+									<tr><td>am-ge-03</td><td>am-ge-08</td><td>am-ge-13</td></tr>
+									<tr><td>am-ge-04</td><td>am-ge-09</td><td>am-ge-14</td></tr>
+									<tr><td>am-ge-05</td><td>am-ge-10</td><td>am-ge-15</td></tr>
+								</table>
 							</div>
 						</div>
 					</div>
