@@ -1392,7 +1392,7 @@
     "xws": "ruinedmachineback"
   },
   {
-    "name": "self destruct",
+    "name": "self-destruct",
     "points": 232,
     "image": "monster-ability-cards/ruined-machine/self-destruct.png",
     "xws": "selfdestruct"
