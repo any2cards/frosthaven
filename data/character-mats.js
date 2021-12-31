@@ -1,84 +1,84 @@
 [
   {
     "name": "banner spear",
-    "points": 60,
+    "points": 0,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear.png",
     "xws": "bannerspear"
   },
   {
     "name": "banner spear",
-    "points": 61,
+    "points": 1,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-banner-spear-back.png",
     "xws": "bannerspear"
   },
   {
     "name": "blinkblade",
-    "points": 62,
+    "points": 2,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade.png",
     "xws": "blinkblade"
   },
   {
     "name": "blinkblade",
-    "points": 63,
+    "points": 3,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-blinkblade-back.png",
     "xws": "blinkblade"
   },
   {
     "name": "boneshaper",
-    "points": 64,
+    "points": 4,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper.png",
     "xws": "boneshaper"
   },
   {
     "name": "boneshaper",
-    "points": 65,
+    "points": 5,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-boneshaper-back.png",
     "xws": "boneshaper"
   },
   {
     "name": "deathwalker",
-    "points": 66,
+    "points": 6,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker.png",
     "xws": "deathwalker"
   },
   {
     "name": "deathwalker",
-    "points": 67,
+    "points": 7,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-deathwalker-back.png",
     "xws": "deathwalker"
   },
   {
     "name": "drifter",
-    "points": 68,
+    "points": 8,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-drifter.png",
     "xws": "drifter"
   },
   {
     "name": "drifter",
-    "points": 69,
+    "points": 9,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-drifter-back.png",
     "xws": "drifter"
   },
   {
     "name": "geminate",
-    "points": 70,
+    "points": 10,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-geminate.png",
     "xws": "geminate"
   },
   {
     "name": "geminate",
-    "points": 71,
+    "points": 11,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-geminate-back.png",
     "xws": "geminate"
