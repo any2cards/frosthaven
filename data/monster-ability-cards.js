@@ -1,1622 +1,1892 @@
 [
   {
-    "name": "ma-bb-1",
+    "name": "fh-ma-bb-back",
     "points": 0,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-1.png",
-    "xws": "mabb1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-back.png",
+    "xws": "fhmabbback"
   },
   {
-    "name": "ma-bb-2",
+    "name": "fh-ma-bb-1",
     "points": 1,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-2.png",
-    "xws": "mabb2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-1.png",
+    "xws": "fhmabb1"
   },
   {
-    "name": "ma-bb-3",
+    "name": "fh-ma-bb-2",
     "points": 2,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-3.png",
-    "xws": "mabb3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-2.png",
+    "xws": "fhmabb2"
   },
   {
-    "name": "ma-bb-4",
+    "name": "fh-ma-bb-3",
     "points": 3,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-4.png",
-    "xws": "mabb4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-3.png",
+    "xws": "fhmabb3"
   },
   {
-    "name": "ma-bb-5",
+    "name": "fh-ma-bb-4",
     "points": 4,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-5.png",
-    "xws": "mabb5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-4.png",
+    "xws": "fhmabb4"
   },
   {
-    "name": "ma-bb-6",
+    "name": "fh-ma-bb-5",
     "points": 5,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-6.png",
-    "xws": "mabb6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-5.png",
+    "xws": "fhmabb5"
   },
   {
-    "name": "ma-bb-7",
+    "name": "fh-ma-bb-6",
     "points": 6,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-7.png",
-    "xws": "mabb7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-6.png",
+    "xws": "fhmabb6"
   },
   {
-    "name": "ma-bb-8",
+    "name": "fh-ma-bb-7",
     "points": 7,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-8.png",
-    "xws": "mabb8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-7.png",
+    "xws": "fhmabb7"
   },
   {
-    "name": "ma-bb-back",
+    "name": "fh-ma-bb-8",
     "points": 8,
-    "image": "monster-ability-cards/burrowing-blade/ma-bb-back.png",
-    "xws": "mabbback"
-  },
-  {
-    "name": "aura of fear",
-    "points": 9,
-    "image": "monster-ability-cards/burrowing-blade/aura-of-fear.png",
-    "xws": "auraoffear"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-ma-bb-8.png",
+    "xws": "fhmabb8"
   },
   {
     "name": "burrowing blade back",
-    "points": 10,
-    "image": "monster-ability-cards/burrowing-blade/burrowing-blade-back.png",
+    "points": 9,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-burrowing-blade-back.png",
     "xws": "burrowingbladeback"
+  },
+  {
+    "name": "aura of fear",
+    "points": 10,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-aura-of-fear.png",
+    "xws": "auraoffear"
   },
   {
     "name": "crashing blow",
     "points": 11,
-    "image": "monster-ability-cards/burrowing-blade/crashing-blow.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-crashing-blow.png",
     "xws": "crashingblow"
   },
   {
     "name": "descend",
     "points": 12,
-    "image": "monster-ability-cards/burrowing-blade/descend.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-descend.png",
     "xws": "descend"
   },
   {
     "name": "explosive ascent",
     "points": 13,
-    "image": "monster-ability-cards/burrowing-blade/explosive-ascent.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-explosive-ascent.png",
     "xws": "explosiveascent"
   },
   {
     "name": "rocky thrust",
     "points": 14,
-    "image": "monster-ability-cards/burrowing-blade/rocky-thrust.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-rocky-thrust.png",
     "xws": "rockythrust"
   },
   {
     "name": "soaring strikes",
     "points": 15,
-    "image": "monster-ability-cards/burrowing-blade/soaring-strikes.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-soaring-strikes.png",
     "xws": "soaringstrikes"
   },
   {
     "name": "tunneling slices",
     "points": 16,
-    "image": "monster-ability-cards/burrowing-blade/tunneling-slices-1.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-tunneling-slices-1.png",
     "xws": "tunnelingslices"
   },
   {
     "name": "tunneling slices",
     "points": 17,
-    "image": "monster-ability-cards/burrowing-blade/tunneling-slices-2.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/burrowing-blade/fh-tunneling-slices-2.png",
     "xws": "tunnelingslices"
   },
   {
-    "name": "ma-cd-1",
+    "name": "fh-ma-cd-back",
     "points": 18,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-1.png",
-    "xws": "macd1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-back.png",
+    "xws": "fhmacdback"
   },
   {
-    "name": "ma-cd-2",
+    "name": "fh-ma-cd-1",
     "points": 19,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-2.png",
-    "xws": "macd2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-1.png",
+    "xws": "fhmacd1"
   },
   {
-    "name": "ma-cd-3",
+    "name": "fh-ma-cd-2",
     "points": 20,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-3.png",
-    "xws": "macd3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-2.png",
+    "xws": "fhmacd2"
   },
   {
-    "name": "ma-cd-4",
+    "name": "fh-ma-cd-3",
     "points": 21,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-4.png",
-    "xws": "macd4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-3.png",
+    "xws": "fhmacd3"
   },
   {
-    "name": "ma-cd-5",
+    "name": "fh-ma-cd-4",
     "points": 22,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-5.png",
-    "xws": "macd5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-4.png",
+    "xws": "fhmacd4"
   },
   {
-    "name": "ma-cd-6",
+    "name": "fh-ma-cd-5",
     "points": 23,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-6.png",
-    "xws": "macd6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-5.png",
+    "xws": "fhmacd5"
   },
   {
-    "name": "ma-cd-7",
+    "name": "fh-ma-cd-6",
     "points": 24,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-7.png",
-    "xws": "macd7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-6.png",
+    "xws": "fhmacd6"
   },
   {
-    "name": "ma-cd-8",
+    "name": "fh-ma-cd-7",
     "points": 25,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-8.png",
-    "xws": "macd8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-7.png",
+    "xws": "fhmacd7"
   },
   {
-    "name": "ma-cd-back",
+    "name": "fh-ma-cd-8",
     "points": 26,
-    "image": "monster-ability-cards/chaos-demon/ma-cd-back.png",
-    "xws": "macdback"
-  },
-  {
-    "name": "black tendrils",
-    "points": 27,
-    "image": "monster-ability-cards/chaos-demon/black-tendrils.png",
-    "xws": "blacktendrils"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-ma-cd-8.png",
+    "xws": "fhmacd8"
   },
   {
     "name": "chaos demon back",
-    "points": 28,
-    "image": "monster-ability-cards/chaos-demon/chaos-demon-back.png",
+    "points": 27,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-chaos-demon-back.png",
     "xws": "chaosdemonback"
+  },
+  {
+    "name": "black tendrils",
+    "points": 28,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-black-tendrils.png",
+    "xws": "blacktendrils"
   },
   {
     "name": "chilling breath",
     "points": 29,
-    "image": "monster-ability-cards/chaos-demon/chilling-breath.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-chilling-breath.png",
     "xws": "chillingbreath"
   },
   {
     "name": "flashing claws",
     "points": 30,
-    "image": "monster-ability-cards/chaos-demon/flashing-claws.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-flashing-claws.png",
     "xws": "flashingclaws"
   },
   {
     "name": "heat blast",
     "points": 31,
-    "image": "monster-ability-cards/chaos-demon/heat-blast.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-heat-blast.png",
     "xws": "heatblast"
   },
   {
     "name": "hungry maw",
     "points": 32,
-    "image": "monster-ability-cards/chaos-demon/hungry-maw.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-hungry-maw.png",
     "xws": "hungrymaw"
   },
   {
     "name": "mana explosion",
     "points": 33,
-    "image": "monster-ability-cards/chaos-demon/mana-explosion.png",
-    "xws": "manaexplosion"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-mana-explosion.png",
+    "xws": "fhmanaexplosion"
   },
   {
     "name": "seismic punch",
     "points": 34,
-    "image": "monster-ability-cards/chaos-demon/seismic-punch.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-seismic-punch.png",
     "xws": "seismicpunch"
   },
   {
     "name": "whirlwind",
     "points": 35,
-    "image": "monster-ability-cards/chaos-demon/whirlwind.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/chaos-demon/fh-whirlwind.png",
     "xws": "whirlwind"
   },
   {
-    "name": "ma-fb-1",
+    "name": "fh-ma-fb-back",
     "points": 36,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-1.png",
-    "xws": "mafb1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-back.png",
+    "xws": "fhmafbback"
   },
   {
-    "name": "ma-fb-2",
+    "name": "fh-ma-fb-1",
     "points": 37,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-2.png",
-    "xws": "mafb2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-1.png",
+    "xws": "fhmafb1"
   },
   {
-    "name": "ma-fb-3",
+    "name": "fh-ma-fb-2",
     "points": 38,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-3.png",
-    "xws": "mafb3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-2.png",
+    "xws": "fhmafb2"
   },
   {
-    "name": "ma-fb-4",
+    "name": "fh-ma-fb-3",
     "points": 39,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-4.png",
-    "xws": "mafb4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-3.png",
+    "xws": "fhmafb3"
   },
   {
-    "name": "ma-fb-5",
+    "name": "fh-ma-fb-4",
     "points": 40,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-5.png",
-    "xws": "mafb5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-4.png",
+    "xws": "fhmafb4"
   },
   {
-    "name": "ma-fb-6",
+    "name": "fh-ma-fb-5",
     "points": 41,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-6.png",
-    "xws": "mafb6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-5.png",
+    "xws": "fhmafb5"
   },
   {
-    "name": "ma-fb-7",
+    "name": "fh-ma-fb-6",
     "points": 42,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-7.png",
-    "xws": "mafb7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-6.png",
+    "xws": "fhmafb6"
   },
   {
-    "name": "ma-fb-8",
+    "name": "fh-ma-fb-7",
     "points": 43,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-8.png",
-    "xws": "mafb8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-7.png",
+    "xws": "fhmafb7"
   },
   {
-    "name": "ma-fb-back",
+    "name": "fh-ma-fb-8",
     "points": 44,
-    "image": "monster-ability-cards/flaming-bladespinner/ma-fb-back.png",
-    "xws": "mafbback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-ma-fb-8.png",
+    "xws": "fhmafb8"
+  },
+  {
+    "name": "flaming bladespinner back",
+    "points": 45,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-flaming-bladespinner-back.png",
+    "xws": "flamingbladespinnerback"
   },
   {
     "name": "calculated strike",
-    "points": 45,
-    "image": "monster-ability-cards/flaming-bladespinner/calculated-strike.png",
+    "points": 46,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "defensive blades",
-    "points": 46,
-    "image": "monster-ability-cards/flaming-bladespinner/defensive-blades.png",
+    "points": 47,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-defensive-blades.png",
     "xws": "defensiveblades"
   },
   {
     "name": "firestorm",
-    "points": 47,
-    "image": "monster-ability-cards/flaming-bladespinner/firestorm.png",
+    "points": 48,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-firestorm.png",
     "xws": "firestorm"
   },
   {
     "name": "flame jets",
-    "points": 48,
-    "image": "monster-ability-cards/flaming-bladespinner/flame-jets.png",
-    "xws": "flamejets"
-  },
-  {
-    "name": "flaming bladespinner back",
     "points": 49,
-    "image": "monster-ability-cards/flaming-bladespinner/flaming-bladespinner-back.png",
-    "xws": "flamingbladespinnerback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-flame-jets.png",
+    "xws": "flamejets"
   },
   {
     "name": "hasty assault",
     "points": 50,
-    "image": "monster-ability-cards/flaming-bladespinner/hasty-assault.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "heated sweep",
     "points": 51,
-    "image": "monster-ability-cards/flaming-bladespinner/heated-sweep.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-heated-sweep.png",
     "xws": "heatedsweep"
   },
   {
     "name": "increase momentum",
     "points": 52,
-    "image": "monster-ability-cards/flaming-bladespinner/increase-momentum.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-increase-momentum.png",
     "xws": "increasemomentum"
   },
   {
     "name": "spinning charge",
     "points": 53,
-    "image": "monster-ability-cards/flaming-bladespinner/spinning-charge.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/flaming-bladespinner/fh-spinning-charge.png",
     "xws": "spinningcharge"
   },
   {
-    "name": "ma-fc-1",
+    "name": "fh-ma-fc-back",
     "points": 54,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-1.png",
-    "xws": "mafc1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-back.png",
+    "xws": "fhmafcback"
   },
   {
-    "name": "ma-fc-2",
+    "name": "fh-ma-fc-1",
     "points": 55,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-2.png",
-    "xws": "mafc2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-1.png",
+    "xws": "fhmafc1"
   },
   {
-    "name": "ma-fc-3",
+    "name": "fh-ma-fc-2",
     "points": 56,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-3.png",
-    "xws": "mafc3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-2.png",
+    "xws": "fhmafc2"
   },
   {
-    "name": "ma-fc-4",
+    "name": "fh-ma-fc-3",
     "points": 57,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-4.png",
-    "xws": "mafc4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-3.png",
+    "xws": "fhmafc3"
   },
   {
-    "name": "ma-fc-5",
+    "name": "fh-ma-fc-4",
     "points": 58,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-5.png",
-    "xws": "mafc5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-4.png",
+    "xws": "fhmafc4"
   },
   {
-    "name": "ma-fc-6",
+    "name": "fh-ma-fc-5",
     "points": 59,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-6.png",
-    "xws": "mafc6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-5.png",
+    "xws": "fhmafc5"
   },
   {
-    "name": "ma-fc-7",
+    "name": "fh-ma-fc-6",
     "points": 60,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-7.png",
-    "xws": "mafc7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-6.png",
+    "xws": "fhmafc6"
   },
   {
-    "name": "ma-fc-8",
+    "name": "fh-ma-fc-7",
     "points": 61,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-8.png",
-    "xws": "mafc8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-7.png",
+    "xws": "fhmafc7"
   },
   {
-    "name": "ma-fc-back",
+    "name": "fh-ma-fc-8",
     "points": 62,
-    "image": "monster-ability-cards/frozen-corpse/ma-fc-back.png",
-    "xws": "mafcback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-ma-fc-8.png",
+    "xws": "fhmafc8"
   },
   {
-    "name": "cold snap",
+    "name": "frozen corpse back",
     "points": 63,
-    "image": "monster-ability-cards/frozen-corpse/cold-snap-1.png",
-    "xws": "coldsnap"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-frozen-corpse-back.png",
+    "xws": "frozencorpseback"
   },
   {
     "name": "cold snap",
     "points": 64,
-    "image": "monster-ability-cards/frozen-corpse/cold-snap-2.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-cold-snap-1.png",
+    "xws": "coldsnap"
+  },
+  {
+    "name": "cold snap",
+    "points": 65,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-cold-snap-2.png",
     "xws": "coldsnap"
   },
   {
     "name": "freezing embrace",
-    "points": 65,
-    "image": "monster-ability-cards/frozen-corpse/freezing-embrace.png",
+    "points": 66,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-freezing-embrace.png",
     "xws": "freezingembrace"
   },
   {
     "name": "frost breath",
-    "points": 66,
-    "image": "monster-ability-cards/frozen-corpse/frost-breath.png",
-    "xws": "frostbreath"
-  },
-  {
-    "name": "frozen corpse back",
     "points": 67,
-    "image": "monster-ability-cards/frozen-corpse/frozen-corpse-back.png",
-    "xws": "frozencorpseback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-frost-breath.png",
+    "xws": "frostbreath"
   },
   {
     "name": "icy swipe",
     "points": 68,
-    "image": "monster-ability-cards/frozen-corpse/icy-swipe.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-icy-swipe.png",
     "xws": "icyswipe"
   },
   {
     "name": "nothing special",
     "points": 69,
-    "image": "monster-ability-cards/frozen-corpse/nothing-special.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "thawed strike",
     "points": 70,
-    "image": "monster-ability-cards/frozen-corpse/thawed-strike-1.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-thawed-strike-1.png",
     "xws": "thawedstrike"
   },
   {
     "name": "thawed strike",
     "points": 71,
-    "image": "monster-ability-cards/frozen-corpse/thawed-strike-2.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/frozen-corpse/fh-thawed-strike-2.png",
     "xws": "thawedstrike"
   },
   {
-    "name": "ma-iw-1",
+    "name": "fh-ma-iw-back",
     "points": 72,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-1.png",
-    "xws": "maiw1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-back.png",
+    "xws": "fhmaiwback"
   },
   {
-    "name": "ma-iw-2",
+    "name": "fh-ma-iw-1",
     "points": 73,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-2.png",
-    "xws": "maiw2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-1.png",
+    "xws": "fhmaiw1"
   },
   {
-    "name": "ma-iw-3",
+    "name": "fh-ma-iw-2",
     "points": 74,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-3.png",
-    "xws": "maiw3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-2.png",
+    "xws": "fhmaiw2"
   },
   {
-    "name": "ma-iw-4",
+    "name": "fh-ma-iw-3",
     "points": 75,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-4.png",
-    "xws": "maiw4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-3.png",
+    "xws": "fhmaiw3"
   },
   {
-    "name": "ma-iw-5",
+    "name": "fh-ma-iw-4",
     "points": 76,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-5.png",
-    "xws": "maiw5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-4.png",
+    "xws": "fhmaiw4"
   },
   {
-    "name": "ma-iw-6",
+    "name": "fh-ma-iw-5",
     "points": 77,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-6.png",
-    "xws": "maiw6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-5.png",
+    "xws": "fhmaiw5"
   },
   {
-    "name": "ma-iw-7",
+    "name": "fh-ma-iw-6",
     "points": 78,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-7.png",
-    "xws": "maiw7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-6.png",
+    "xws": "fhmaiw6"
   },
   {
-    "name": "ma-iw-8",
+    "name": "fh-ma-iw-7",
     "points": 79,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-8.png",
-    "xws": "maiw8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-7.png",
+    "xws": "fhmaiw7"
   },
   {
-    "name": "ma-iw-back",
+    "name": "fh-ma-iw-8",
     "points": 80,
-    "image": "monster-ability-cards/ice-wraith/ma-iw-back.png",
-    "xws": "maiwback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ma-iw-8.png",
+    "xws": "fhmaiw8"
+  },
+  {
+    "name": "ice wraith back",
+    "points": 81,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-ice-wraith-back.png",
+    "xws": "icewraithback"
   },
   {
     "name": "calculated strike",
-    "points": 81,
-    "image": "monster-ability-cards/ice-wraith/calculated-strike.png",
+    "points": 82,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "fade out",
-    "points": 82,
-    "image": "monster-ability-cards/ice-wraith/fade-out.png",
+    "points": 83,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-fade-out.png",
     "xws": "fadeout"
   },
   {
     "name": "hasty assault",
-    "points": 83,
-    "image": "monster-ability-cards/ice-wraith/hasty-assault.png",
-    "xws": "hastyassault"
-  },
-  {
-    "name": "ice wraith back",
     "points": 84,
-    "image": "monster-ability-cards/ice-wraith/ice-wraith-back.png",
-    "xws": "icewraithback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-hasty-assault.png",
+    "xws": "hastyassault"
   },
   {
     "name": "renewed aggression",
     "points": 85,
-    "image": "monster-ability-cards/ice-wraith/renewed-aggression.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-renewed-aggression.png",
     "xws": "renewedaggression"
   },
   {
     "name": "restore essence",
     "points": 86,
-    "image": "monster-ability-cards/ice-wraith/restore-essence.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-restore-essence.png",
     "xws": "restoreessence"
   },
   {
     "name": "shard strike",
     "points": 87,
-    "image": "monster-ability-cards/ice-wraith/shard-strike.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-shard-strike.png",
     "xws": "shardstrike"
   },
   {
     "name": "shift form",
     "points": 88,
-    "image": "monster-ability-cards/ice-wraith/shift-form.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-shift-form.png",
     "xws": "shiftform"
   },
   {
     "name": "unholy strength",
     "points": 89,
-    "image": "monster-ability-cards/ice-wraith/unholy-strength.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ice-wraith/fh-unholy-strength.png",
     "xws": "unholystrength"
   },
   {
-    "name": "ma-le-1",
+    "name": "fh-ma-le-back",
     "points": 90,
-    "image": "monster-ability-cards/lightning-eel/ma-le-1.png",
-    "xws": "male1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-back.png",
+    "xws": "fhmaleback"
   },
   {
-    "name": "ma-le-2",
+    "name": "fh-ma-le-1",
     "points": 91,
-    "image": "monster-ability-cards/lightning-eel/ma-le-2.png",
-    "xws": "male2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-1.png",
+    "xws": "fhmale1"
   },
   {
-    "name": "ma-le-3",
+    "name": "fh-ma-le-2",
     "points": 92,
-    "image": "monster-ability-cards/lightning-eel/ma-le-3.png",
-    "xws": "male3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-2.png",
+    "xws": "fhmale2"
   },
   {
-    "name": "ma-le-4",
+    "name": "fh-ma-le-3",
     "points": 93,
-    "image": "monster-ability-cards/lightning-eel/ma-le-4.png",
-    "xws": "male4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-3.png",
+    "xws": "fhmale3"
   },
   {
-    "name": "ma-le-5",
+    "name": "fh-ma-le-4",
     "points": 94,
-    "image": "monster-ability-cards/lightning-eel/ma-le-5.png",
-    "xws": "male5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-4.png",
+    "xws": "fhmale4"
   },
   {
-    "name": "ma-le-6",
+    "name": "fh-ma-le-5",
     "points": 95,
-    "image": "monster-ability-cards/lightning-eel/ma-le-6.png",
-    "xws": "male6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-5.png",
+    "xws": "fhmale5"
   },
   {
-    "name": "ma-le-7",
+    "name": "fh-ma-le-6",
     "points": 96,
-    "image": "monster-ability-cards/lightning-eel/ma-le-7.png",
-    "xws": "male7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-6.png",
+    "xws": "fhmale6"
   },
   {
-    "name": "ma-le-8",
+    "name": "fh-ma-le-7",
     "points": 97,
-    "image": "monster-ability-cards/lightning-eel/ma-le-8.png",
-    "xws": "male8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-7.png",
+    "xws": "fhmale7"
   },
   {
-    "name": "ma-le-back",
+    "name": "fh-ma-le-8",
     "points": 98,
-    "image": "monster-ability-cards/lightning-eel/ma-le-back.png",
-    "xws": "maleback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-ma-le-8.png",
+    "xws": "fhmale8"
+  },
+  {
+    "name": "lightning eel back",
+    "points": 99,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-lightning-eel-back.png",
+    "xws": "lightningeelback"
   },
   {
     "name": "calculated strike",
-    "points": 99,
-    "image": "monster-ability-cards/lightning-eel/calculated-strike.png",
+    "points": 100,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "electric pulse",
-    "points": 100,
-    "image": "monster-ability-cards/lightning-eel/electric-pulse.png",
+    "points": 101,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-electric-pulse.png",
     "xws": "electricpulse"
   },
   {
     "name": "hasty assault",
-    "points": 101,
-    "image": "monster-ability-cards/lightning-eel/hasty-assault.png",
+    "points": 102,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "leaping dive",
-    "points": 102,
-    "image": "monster-ability-cards/lightning-eel/leaping-dive.png",
-    "xws": "leapingdive"
-  },
-  {
-    "name": "lightning eel back",
     "points": 103,
-    "image": "monster-ability-cards/lightning-eel/lightning-eel-back.png",
-    "xws": "lightningeelback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-leaping-dive.png",
+    "xws": "leapingdive"
   },
   {
     "name": "nothing special",
     "points": 104,
-    "image": "monster-ability-cards/lightning-eel/nothing-special.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "paralyzing bite",
     "points": 105,
-    "image": "monster-ability-cards/lightning-eel/paralyzing-bite.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-paralyzing-bite.png",
     "xws": "paralyzingbite"
   },
   {
     "name": "shocking voltage",
     "points": 106,
-    "image": "monster-ability-cards/lightning-eel/shocking-voltage.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-shocking-voltage.png",
     "xws": "shockingvoltage"
   },
   {
     "name": "thrashing strikes",
     "points": 107,
-    "image": "monster-ability-cards/lightning-eel/thrashing-strikes.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lightning-eel/fh-thrashing-strikes.png",
     "xws": "thrashingstrikes"
   },
   {
-    "name": "ma-ld-1",
+    "name": "fh-ma-ld-back",
     "points": 108,
-    "image": "monster-ability-cards/living-doom/ma-ld-1.png",
-    "xws": "mald1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-back.png",
+    "xws": "fhmaldback"
   },
   {
-    "name": "ma-ld-2",
+    "name": "fh-ma-ld-1",
     "points": 109,
-    "image": "monster-ability-cards/living-doom/ma-ld-2.png",
-    "xws": "mald2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-1.png",
+    "xws": "fhmald1"
   },
   {
-    "name": "ma-ld-3",
+    "name": "fh-ma-ld-2",
     "points": 110,
-    "image": "monster-ability-cards/living-doom/ma-ld-3.png",
-    "xws": "mald3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-2.png",
+    "xws": "fhmald2"
   },
   {
-    "name": "ma-ld-4",
+    "name": "fh-ma-ld-3",
     "points": 111,
-    "image": "monster-ability-cards/living-doom/ma-ld-4.png",
-    "xws": "mald4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-3.png",
+    "xws": "fhmald3"
   },
   {
-    "name": "ma-ld-5",
+    "name": "fh-ma-ld-4",
     "points": 112,
-    "image": "monster-ability-cards/living-doom/ma-ld-5.png",
-    "xws": "mald5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-4.png",
+    "xws": "fhmald4"
   },
   {
-    "name": "ma-ld-6",
+    "name": "fh-ma-ld-5",
     "points": 113,
-    "image": "monster-ability-cards/living-doom/ma-ld-6.png",
-    "xws": "mald6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-5.png",
+    "xws": "fhmald5"
   },
   {
-    "name": "ma-ld-7",
+    "name": "fh-ma-ld-6",
     "points": 114,
-    "image": "monster-ability-cards/living-doom/ma-ld-7.png",
-    "xws": "mald7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-6.png",
+    "xws": "fhmald6"
   },
   {
-    "name": "ma-ld-8",
+    "name": "fh-ma-ld-7",
     "points": 115,
-    "image": "monster-ability-cards/living-doom/ma-ld-8.png",
-    "xws": "mald8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-7.png",
+    "xws": "fhmald7"
   },
   {
-    "name": "ma-ld-back",
+    "name": "fh-ma-ld-8",
     "points": 116,
-    "image": "monster-ability-cards/living-doom/ma-ld-back.png",
-    "xws": "maldback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-ma-ld-8.png",
+    "xws": "fhmald8"
+  },
+  {
+    "name": "living doom back",
+    "points": 117,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-living-doom-back.png",
+    "xws": "livingdoomback"
   },
   {
     "name": "arresting advance",
-    "points": 117,
-    "image": "monster-ability-cards/living-doom/arresting-advance.png",
+    "points": 118,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-arresting-advance.png",
     "xws": "arrestingadvance"
   },
   {
     "name": "call for souls",
-    "points": 118,
-    "image": "monster-ability-cards/living-doom/call-for-souls.png",
+    "points": 119,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-call-for-souls.png",
     "xws": "callforsouls"
   },
   {
     "name": "chilling aura",
-    "points": 119,
-    "image": "monster-ability-cards/living-doom/chilling-aura.png",
+    "points": 120,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-chilling-aura.png",
     "xws": "chillingaura"
   },
   {
     "name": "face of darkness",
-    "points": 120,
-    "image": "monster-ability-cards/living-doom/face-of-darkness.png",
+    "points": 121,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-face-of-darkness.png",
     "xws": "faceofdarkness"
   },
   {
     "name": "hateful spikes",
-    "points": 121,
-    "image": "monster-ability-cards/living-doom/hateful-spikes.png",
-    "xws": "hatefulspikes"
-  },
-  {
-    "name": "living doom back",
     "points": 122,
-    "image": "monster-ability-cards/living-doom/living-doom-back.png",
-    "xws": "livingdoomback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-hateful-spikes.png",
+    "xws": "hatefulspikes"
   },
   {
     "name": "nothing special",
     "points": 123,
-    "image": "monster-ability-cards/living-doom/nothing-special.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "pull of the grave",
     "points": 124,
-    "image": "monster-ability-cards/living-doom/pull-of-the-grave.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-pull-of-the-grave.png",
     "xws": "pullofthegrave"
   },
   {
     "name": "sunless abyss",
     "points": 125,
-    "image": "monster-ability-cards/living-doom/sunless-abyss.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/living-doom/fh-sunless-abyss.png",
     "xws": "sunlessabyss"
   },
   {
-    "name": "ma-luc-1",
+    "name": "fh-ma-luc-back",
     "points": 126,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-1.png",
-    "xws": "maluc1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-back.png",
+    "xws": "fhmalucback"
   },
   {
-    "name": "ma-luc-2",
+    "name": "fh-ma-luc-1",
     "points": 127,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-2.png",
-    "xws": "maluc2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-1.png",
+    "xws": "fhmaluc1"
   },
   {
-    "name": "ma-luc-3",
+    "name": "fh-ma-luc-2",
     "points": 128,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-3.png",
-    "xws": "maluc3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-2.png",
+    "xws": "fhmaluc2"
   },
   {
-    "name": "ma-luc-4",
+    "name": "fh-ma-luc-3",
     "points": 129,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-4.png",
-    "xws": "maluc4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-3.png",
+    "xws": "fhmaluc3"
   },
   {
-    "name": "ma-luc-5",
+    "name": "fh-ma-luc-4",
     "points": 130,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-5.png",
-    "xws": "maluc5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-4.png",
+    "xws": "fhmaluc4"
   },
   {
-    "name": "ma-luc-6",
+    "name": "fh-ma-luc-5",
     "points": 131,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-6.png",
-    "xws": "maluc6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-5.png",
+    "xws": "fhmaluc5"
   },
   {
-    "name": "ma-luc-7",
+    "name": "fh-ma-luc-6",
     "points": 132,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-7.png",
-    "xws": "maluc7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-6.png",
+    "xws": "fhmaluc6"
   },
   {
-    "name": "ma-luc-8",
+    "name": "fh-ma-luc-7",
     "points": 133,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-8.png",
-    "xws": "maluc8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-7.png",
+    "xws": "fhmaluc7"
   },
   {
-    "name": "ma-luc-back",
+    "name": "fh-ma-luc-8",
     "points": 134,
-    "image": "monster-ability-cards/lurker-clawcrusher/ma-luc-back.png",
-    "xws": "malucback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-ma-luc-8.png",
+    "xws": "fhmaluc8"
+  },
+  {
+    "name": "lurker clawcrusher back",
+    "points": 135,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-lurker-clawcrusher-back.png",
+    "xws": "lurkerclawcrusherback"
   },
   {
     "name": "claw guard",
-    "points": 135,
-    "image": "monster-ability-cards/lurker-clawcrusher/claw-guard.png",
+    "points": 136,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-claw-guard.png",
     "xws": "clawguard"
   },
   {
     "name": "crippling claw",
-    "points": 136,
-    "image": "monster-ability-cards/lurker-clawcrusher/crippling-claw.png",
+    "points": 137,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-crippling-claw.png",
     "xws": "cripplingclaw"
   },
   {
     "name": "crush armor",
-    "points": 137,
-    "image": "monster-ability-cards/lurker-clawcrusher/crush-armor.png",
+    "points": 138,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-crush-armor.png",
     "xws": "crusharmor"
   },
   {
     "name": "earthen blow",
-    "points": 138,
-    "image": "monster-ability-cards/lurker-clawcrusher/earthen-blow.png",
+    "points": 139,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-earthen-blow.png",
     "xws": "earthenblow"
   },
   {
     "name": "frantic swipes",
-    "points": 139,
-    "image": "monster-ability-cards/lurker-clawcrusher/frantic-swipes.png",
-    "xws": "franticswipes"
-  },
-  {
-    "name": "lurker clawcrusher back",
     "points": 140,
-    "image": "monster-ability-cards/lurker-clawcrusher/lurker-clawcrusher-back.png",
-    "xws": "lurkerclawcrusherback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-frantic-swipes.png",
+    "xws": "franticswipes"
   },
   {
     "name": "nothing special",
     "points": 141,
-    "image": "monster-ability-cards/lurker-clawcrusher/nothing-special.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "smash armor",
     "points": 142,
-    "image": "monster-ability-cards/lurker-clawcrusher/smash-armor.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-smash-armor.png",
     "xws": "smasharmor"
   },
   {
     "name": "take hostage",
     "points": 143,
-    "image": "monster-ability-cards/lurker-clawcrusher/take-hostage.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-clawcrusher/fh-take-hostage.png",
     "xws": "takehostage"
   },
   {
-    "name": "ma-lum-1",
+    "name": "fh-ma-lum-back",
     "points": 144,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-1.png",
-    "xws": "malum1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-back.png",
+    "xws": "fhmalumback"
   },
   {
-    "name": "ma-lum-2",
+    "name": "fh-ma-lum-1",
     "points": 145,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-2.png",
-    "xws": "malum2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-1.png",
+    "xws": "fhmalum1"
   },
   {
-    "name": "ma-lum-3",
+    "name": "fh-ma-lum-2",
     "points": 146,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-3.png",
-    "xws": "malum3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-2.png",
+    "xws": "fhmalum2"
   },
   {
-    "name": "ma-lum-4",
+    "name": "fh-ma-lum-3",
     "points": 147,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-4.png",
-    "xws": "malum4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-3.png",
+    "xws": "fhmalum3"
   },
   {
-    "name": "ma-lum-5",
+    "name": "fh-ma-lum-4",
     "points": 148,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-5.png",
-    "xws": "malum5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-4.png",
+    "xws": "fhmalum4"
   },
   {
-    "name": "ma-lum-6",
+    "name": "fh-ma-lum-5",
     "points": 149,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-6.png",
-    "xws": "malum6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-5.png",
+    "xws": "fhmalum5"
   },
   {
-    "name": "ma-lum-7",
+    "name": "fh-ma-lum-6",
     "points": 150,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-7.png",
-    "xws": "malum7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-6.png",
+    "xws": "fhmalum6"
   },
   {
-    "name": "ma-lum-8",
+    "name": "fh-ma-lum-7",
     "points": 151,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-8.png",
-    "xws": "malum8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-7.png",
+    "xws": "fhmalum7"
   },
   {
-    "name": "ma-lum-back",
+    "name": "fh-ma-lum-8",
     "points": 152,
-    "image": "monster-ability-cards/lurker-mindsnipper/ma-lum-back.png",
-    "xws": "malumback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-ma-lum-8.png",
+    "xws": "fhmalum8"
+  },
+  {
+    "name": "lurker mindsnipper back",
+    "points": 153,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-lurker-mindsnipper-back.png",
+    "xws": "lurkermindsnipperback"
   },
   {
     "name": "beguiling thoughts",
-    "points": 153,
-    "image": "monster-ability-cards/lurker-mindsnipper/beguiling-thoughts.png",
+    "points": 154,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-beguiling-thoughts.png",
     "xws": "beguilingthoughts"
   },
   {
     "name": "calculated strike",
-    "points": 154,
-    "image": "monster-ability-cards/lurker-mindsnipper/calculated-strike.png",
+    "points": 155,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "hasty assault",
-    "points": 155,
-    "image": "monster-ability-cards/lurker-mindsnipper/hasty-assault.png",
+    "points": 156,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "instill fear",
-    "points": 156,
-    "image": "monster-ability-cards/lurker-mindsnipper/instill-fear.png",
-    "xws": "instillfear"
-  },
-  {
-    "name": "lurker mindsnipper back",
     "points": 157,
-    "image": "monster-ability-cards/lurker-mindsnipper/lurker-mindsnipper-back.png",
-    "xws": "lurkermindsnipperback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-instill-fear.png",
+    "xws": "instillfear"
   },
   {
     "name": "nothing special",
     "points": 158,
-    "image": "monster-ability-cards/lurker-mindsnipper/nothing-special.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "paralyze",
     "points": 159,
-    "image": "monster-ability-cards/lurker-mindsnipper/paralyze.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-paralyze.png",
     "xws": "paralyze"
   },
   {
     "name": "psychic shock",
     "points": 160,
-    "image": "monster-ability-cards/lurker-mindsnipper/psychic-shock.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-psychic-shock.png",
     "xws": "psychicshock"
   },
   {
     "name": "turn the weak",
     "points": 161,
-    "image": "monster-ability-cards/lurker-mindsnipper/turn-the-weak.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-mindsnipper/fh-turn-the-weak.png",
     "xws": "turntheweak"
   },
   {
-    "name": "ma-luw-1",
+    "name": "fh-ma-luw-back",
     "points": 162,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-1.png",
-    "xws": "maluw1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-back.png",
+    "xws": "fhmaluwback"
   },
   {
-    "name": "ma-luw-2",
+    "name": "fh-ma-luw-1",
     "points": 163,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-2.png",
-    "xws": "maluw2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-1.png",
+    "xws": "fhmaluw1"
   },
   {
-    "name": "ma-luw-3",
+    "name": "fh-ma-luw-2",
     "points": 164,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-3.png",
-    "xws": "maluw3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-2.png",
+    "xws": "fhmaluw2"
   },
   {
-    "name": "ma-luw-4",
+    "name": "fh-ma-luw-3",
     "points": 165,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-4.png",
-    "xws": "maluw4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-3.png",
+    "xws": "fhmaluw3"
   },
   {
-    "name": "ma-luw-5",
+    "name": "fh-ma-luw-4",
     "points": 166,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-5.png",
-    "xws": "maluw5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-4.png",
+    "xws": "fhmaluw4"
   },
   {
-    "name": "ma-luw-6",
+    "name": "fh-ma-luw-5",
     "points": 167,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-6.png",
-    "xws": "maluw6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-5.png",
+    "xws": "fhmaluw5"
   },
   {
-    "name": "ma-luw-7",
+    "name": "fh-ma-luw-6",
     "points": 168,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-7.png",
-    "xws": "maluw7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-6.png",
+    "xws": "fhmaluw6"
   },
   {
-    "name": "ma-luw-8",
+    "name": "fh-ma-luw-7",
     "points": 169,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-8.png",
-    "xws": "maluw8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-7.png",
+    "xws": "fhmaluw7"
   },
   {
-    "name": "ma-luw-back",
+    "name": "fh-ma-luw-8",
     "points": 170,
-    "image": "monster-ability-cards/lurker-wavethrower/ma-luw-back.png",
-    "xws": "maluwback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-ma-luw-8.png",
+    "xws": "fhmaluw8"
   },
   {
-    "name": "aid from below",
+    "name": "lurker wavethrower back",
     "points": 171,
-    "image": "monster-ability-cards/lurker-wavethrower/aid-from-below-1.png",
-    "xws": "aidfrombelow"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-lurker-wavethrower-back.png",
+    "xws": "lurkerwavethrowerback"
   },
   {
     "name": "aid from below",
     "points": 172,
-    "image": "monster-ability-cards/lurker-wavethrower/aid-from-below-2.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-aid-from-below-1.png",
+    "xws": "aidfrombelow"
+  },
+  {
+    "name": "aid from below",
+    "points": 173,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-aid-from-below-2.png",
     "xws": "aidfrombelow"
   },
   {
     "name": "crushing crest",
-    "points": 173,
-    "image": "monster-ability-cards/lurker-wavethrower/crushing-crest.png",
+    "points": 174,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-crushing-crest.png",
     "xws": "crushingcrest"
   },
   {
     "name": "distant wave",
-    "points": 174,
-    "image": "monster-ability-cards/lurker-wavethrower/distant-wave.png",
-    "xws": "distantwave"
-  },
-  {
-    "name": "lurker wavethrower back",
     "points": 175,
-    "image": "monster-ability-cards/lurker-wavethrower/lurker-wavethrower-back.png",
-    "xws": "lurkerwavethrowerback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-distant-wave.png",
+    "xws": "distantwave"
   },
   {
     "name": "massive swell",
     "points": 176,
-    "image": "monster-ability-cards/lurker-wavethrower/massive-swell.png",
-    "xws": "massiveswell"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-massive-swell.png",
+    "xws": "fhmassiveswell"
   },
   {
     "name": "powerful claw",
     "points": 177,
-    "image": "monster-ability-cards/lurker-wavethrower/powerful-claw.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-powerful-claw.png",
     "xws": "powerfulclaw"
   },
   {
     "name": "tsunami",
     "points": 178,
-    "image": "monster-ability-cards/lurker-wavethrower/tsunami.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-tsunami.png",
     "xws": "tsunami"
   },
   {
     "name": "twin claws",
     "points": 179,
-    "image": "monster-ability-cards/lurker-wavethrower/twin-claws.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/lurker-wavethrower/fh-twin-claws.png",
     "xws": "twinclaws"
   },
   {
-    "name": "ma-pp-1",
+    "name": "fh-ma-pp-back",
     "points": 180,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-1.png",
-    "xws": "mapp1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-back.png",
+    "xws": "fhmappback"
   },
   {
-    "name": "ma-pp-2",
+    "name": "fh-ma-pp-1",
     "points": 181,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-2.png",
-    "xws": "mapp2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-1.png",
+    "xws": "fhmapp1"
   },
   {
-    "name": "ma-pp-3",
+    "name": "fh-ma-pp-2",
     "points": 182,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-3.png",
-    "xws": "mapp3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-2.png",
+    "xws": "fhmapp2"
   },
   {
-    "name": "ma-pp-4",
+    "name": "fh-ma-pp-3",
     "points": 183,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-4.png",
-    "xws": "mapp4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-3.png",
+    "xws": "fhmapp3"
   },
   {
-    "name": "ma-pp-5",
+    "name": "fh-ma-pp-4",
     "points": 184,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-5.png",
-    "xws": "mapp5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-4.png",
+    "xws": "fhmapp4"
   },
   {
-    "name": "ma-pp-6",
+    "name": "fh-ma-pp-5",
     "points": 185,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-6.png",
-    "xws": "mapp6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-5.png",
+    "xws": "fhmapp5"
   },
   {
-    "name": "ma-pp-7",
+    "name": "fh-ma-pp-6",
     "points": 186,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-7.png",
-    "xws": "mapp7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-6.png",
+    "xws": "fhmapp6"
   },
   {
-    "name": "ma-pp-8",
+    "name": "fh-ma-pp-7",
     "points": 187,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-8.png",
-    "xws": "mapp8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-7.png",
+    "xws": "fhmapp7"
   },
   {
-    "name": "ma-pp-back",
+    "name": "fh-ma-pp-8",
     "points": 188,
-    "image": "monster-ability-cards/piranha-pig/ma-pp-back.png",
-    "xws": "mappback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-ma-pp-8.png",
+    "xws": "fhmapp8"
+  },
+  {
+    "name": "piranha pig back",
+    "points": 189,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-piranha-pig-back.png",
+    "xws": "piranhapigback"
   },
   {
     "name": "bared teeth",
-    "points": 189,
-    "image": "monster-ability-cards/piranha-pig/bared-teeth.png",
+    "points": 190,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-bared-teeth.png",
     "xws": "baredteeth"
   },
   {
     "name": "bloodthirst",
-    "points": 190,
-    "image": "monster-ability-cards/piranha-pig/bloodthirst.png",
+    "points": 191,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-bloodthirst.png",
     "xws": "bloodthirst"
   },
   {
     "name": "easy prey",
-    "points": 191,
-    "image": "monster-ability-cards/piranha-pig/easy-prey.png",
+    "points": 192,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-easy-prey.png",
     "xws": "easyprey"
   },
   {
     "name": "feast",
-    "points": 192,
-    "image": "monster-ability-cards/piranha-pig/feast.png",
+    "points": 193,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-feast.png",
     "xws": "feast"
   },
   {
     "name": "hasty assault",
-    "points": 193,
-    "image": "monster-ability-cards/piranha-pig/hasty-assault.png",
+    "points": 194,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "no escape",
-    "points": 194,
-    "image": "monster-ability-cards/piranha-pig/no-escape.png",
+    "points": 195,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-no-escape.png",
     "xws": "noescape"
   },
   {
     "name": "nothing special",
-    "points": 195,
-    "image": "monster-ability-cards/piranha-pig/nothing-special.png",
-    "xws": "nothingspecial"
-  },
-  {
-    "name": "piranha pig back",
     "points": 196,
-    "image": "monster-ability-cards/piranha-pig/piranha-pig-back.png",
-    "xws": "piranhapigback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-nothing-special.png",
+    "xws": "nothingspecial"
   },
   {
     "name": "swarm",
     "points": 197,
-    "image": "monster-ability-cards/piranha-pig/swarm.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/piranha-pig/fh-swarm.png",
     "xws": "swarm"
   },
   {
-    "name": "ma-rb-1",
+    "name": "fh-ma-rb-back",
     "points": 198,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-1.png",
-    "xws": "marb1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-back.png",
+    "xws": "fhmarbback"
   },
   {
-    "name": "ma-rb-2",
+    "name": "fh-ma-rb-1",
     "points": 199,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-2.png",
-    "xws": "marb2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-1.png",
+    "xws": "fhmarb1"
   },
   {
-    "name": "ma-rb-3",
+    "name": "fh-ma-rb-2",
     "points": 200,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-3.png",
-    "xws": "marb3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-2.png",
+    "xws": "fhmarb2"
   },
   {
-    "name": "ma-rb-4",
+    "name": "fh-ma-rb-3",
     "points": 201,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-4.png",
-    "xws": "marb4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-3.png",
+    "xws": "fhmarb3"
   },
   {
-    "name": "ma-rb-5",
+    "name": "fh-ma-rb-4",
     "points": 202,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-5.png",
-    "xws": "marb5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-4.png",
+    "xws": "fhmarb4"
   },
   {
-    "name": "ma-rb-6",
+    "name": "fh-ma-rb-5",
     "points": 203,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-6.png",
-    "xws": "marb6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-5.png",
+    "xws": "fhmarb5"
   },
   {
-    "name": "ma-rb-7",
+    "name": "fh-ma-rb-6",
     "points": 204,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-7.png",
-    "xws": "marb7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-6.png",
+    "xws": "fhmarb6"
   },
   {
-    "name": "ma-rb-8",
+    "name": "fh-ma-rb-7",
     "points": 205,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-8.png",
-    "xws": "marb8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-7.png",
+    "xws": "fhmarb7"
   },
   {
-    "name": "ma-rb-back",
+    "name": "fh-ma-rb-8",
     "points": 206,
-    "image": "monster-ability-cards/robotic-boltshooter/ma-rb-back.png",
-    "xws": "marbback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ma-rb-8.png",
+    "xws": "fhmarb8"
+  },
+  {
+    "name": "robotic boltshooter back",
+    "points": 207,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-robotic-boltshooter-back.png",
+    "xws": "roboticboltshooterback"
   },
   {
     "name": "ballista bolt",
-    "points": 207,
-    "image": "monster-ability-cards/robotic-boltshooter/ballista-bolt.png",
+    "points": 208,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-ballista-bolt.png",
     "xws": "ballistabolt"
   },
   {
     "name": "calculated shot",
-    "points": 208,
-    "image": "monster-ability-cards/robotic-boltshooter/calculated-shot.png",
+    "points": 209,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-calculated-shot.png",
     "xws": "calculatedshot"
   },
   {
     "name": "focus fire",
-    "points": 209,
-    "image": "monster-ability-cards/robotic-boltshooter/focus-fire.png",
+    "points": 210,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-focus-fire.png",
     "xws": "focusfire"
   },
   {
     "name": "nothing special",
-    "points": 210,
-    "image": "monster-ability-cards/robotic-boltshooter/nothing-special.png",
+    "points": 211,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
     "name": "repair drones",
-    "points": 211,
-    "image": "monster-ability-cards/robotic-boltshooter/repair-drones.png",
+    "points": 212,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-repair-drones.png",
     "xws": "repairdrones"
   },
   {
     "name": "retracted assault",
-    "points": 212,
-    "image": "monster-ability-cards/robotic-boltshooter/retracted-assault.png",
-    "xws": "retractedassault"
-  },
-  {
-    "name": "robotic boltshooter back",
     "points": 213,
-    "image": "monster-ability-cards/robotic-boltshooter/robotic-boltshooter-back.png",
-    "xws": "roboticboltshooterback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-retracted-assault.png",
+    "xws": "retractedassault"
   },
   {
     "name": "safety valve",
     "points": 214,
-    "image": "monster-ability-cards/robotic-boltshooter/safety-valve.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-safety-valve.png",
     "xws": "safetyvalve"
   },
   {
     "name": "sharpshooter",
     "points": 215,
-    "image": "monster-ability-cards/robotic-boltshooter/sharpshooter.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/robotic-boltshooter/fh-sharpshooter.png",
     "xws": "sharpshooter"
   },
   {
-    "name": "ma-rm-1",
+    "name": "fh-ma-rm-back",
     "points": 216,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-1.png",
-    "xws": "marm1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-back.png",
+    "xws": "fhmarmback"
   },
   {
-    "name": "ma-rm-2",
+    "name": "fh-ma-rm-1",
     "points": 217,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-2.png",
-    "xws": "marm2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-1.png",
+    "xws": "fhmarm1"
   },
   {
-    "name": "ma-rm-3",
+    "name": "fh-ma-rm-2",
     "points": 218,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-3.png",
-    "xws": "marm3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-2.png",
+    "xws": "fhmarm2"
   },
   {
-    "name": "ma-rm-4",
+    "name": "fh-ma-rm-3",
     "points": 219,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-4.png",
-    "xws": "marm4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-3.png",
+    "xws": "fhmarm3"
   },
   {
-    "name": "ma-rm-5",
+    "name": "fh-ma-rm-4",
     "points": 220,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-5.png",
-    "xws": "marm5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-4.png",
+    "xws": "fhmarm4"
   },
   {
-    "name": "ma-rm-6",
+    "name": "fh-ma-rm-5",
     "points": 221,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-6.png",
-    "xws": "marm6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-5.png",
+    "xws": "fhmarm5"
   },
   {
-    "name": "ma-rm-7",
+    "name": "fh-ma-rm-6",
     "points": 222,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-7.png",
-    "xws": "marm7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-6.png",
+    "xws": "fhmarm6"
   },
   {
-    "name": "ma-rm-8",
+    "name": "fh-ma-rm-7",
     "points": 223,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-8.png",
-    "xws": "marm8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-7.png",
+    "xws": "fhmarm7"
   },
   {
-    "name": "ma-rm-back",
+    "name": "fh-ma-rm-8",
     "points": 224,
-    "image": "monster-ability-cards/ruined-machine/ma-rm-back.png",
-    "xws": "marmback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ma-rm-8.png",
+    "xws": "fhmarm8"
+  },
+  {
+    "name": "ruined machine back",
+    "points": 225,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-ruined-machine-back.png",
+    "xws": "ruinedmachineback"
   },
   {
     "name": "calculated strike",
-    "points": 225,
-    "image": "monster-ability-cards/ruined-machine/calculated-strike.png",
+    "points": 226,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "devastating tackle",
-    "points": 226,
-    "image": "monster-ability-cards/ruined-machine/devastating-tackle.png",
+    "points": 227,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-devastating-tackle.png",
     "xws": "devastating-tackle"
   },
   {
     "name": "fuel leak",
-    "points": 227,
-    "image": "monster-ability-cards/ruined-machine/fuel-leak.png",
+    "points": 228,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-fuel-leak.png",
     "xws": "fuelleak"
   },
   {
     "name": "hasty assault",
-    "points": 228,
-    "image": "monster-ability-cards/ruined-machine/hasty-assault.png",
+    "points": 229,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-hasty-assault.png",
     "xws": "hastyassault"
   },
   {
     "name": "latch on",
-    "points": 229,
-    "image": "monster-ability-cards/ruined-machine/latch-on.png",
+    "points": 230,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-latch-on.png",
     "xws": "latchon"
   },
   {
     "name": "nothing special",
-    "points": 230,
-    "image": "monster-ability-cards/ruined-machine/nothing-special.png",
-    "xws": "nothingspecial"
-  },
-  {
-    "name": "ruined machine back",
     "points": 231,
-    "image": "monster-ability-cards/ruined-machine/ruined-machine-back.png",
-    "xws": "ruinedmachineback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-nothing-special.png",
+    "xws": "nothingspecial"
   },
   {
     "name": "self-destruct",
     "points": 232,
-    "image": "monster-ability-cards/ruined-machine/self-destruct.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-self-destruct.png",
     "xws": "selfdestruct"
   },
   {
     "name": "signal jam",
     "points": 233,
-    "image": "monster-ability-cards/ruined-machine/signal-jam.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/ruined-machine/fh-signal-jam.png",
     "xws": "signaljam"
   },
   {
-    "name": "ma-sf-1",
+    "name": "fh-ma-sf-back",
     "points": 234,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-1.png",
-    "xws": "masf1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-back.png",
+    "xws": "fhmasfback"
   },
   {
-    "name": "ma-sf-2",
+    "name": "fh-ma-sf-1",
     "points": 235,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-2.png",
-    "xws": "masf2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-1.png",
+    "xws": "fhmasf1"
   },
   {
-    "name": "ma-sf-3",
+    "name": "fh-ma-sf-2",
     "points": 236,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-3.png",
-    "xws": "masf3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-2.png",
+    "xws": "fhmasf2"
   },
   {
-    "name": "ma-sf-4",
+    "name": "fh-ma-sf-3",
     "points": 237,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-4.png",
-    "xws": "masf4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-3.png",
+    "xws": "fhmasf3"
   },
   {
-    "name": "ma-sf-5",
+    "name": "fh-ma-sf-4",
     "points": 238,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-5.png",
-    "xws": "masf5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-4.png",
+    "xws": "fhmasf4"
   },
   {
-    "name": "ma-sf-6",
+    "name": "fh-ma-sf-5",
     "points": 239,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-6.png",
-    "xws": "masf6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-5.png",
+    "xws": "fhmasf5"
   },
   {
-    "name": "ma-sf-7",
+    "name": "fh-ma-sf-6",
     "points": 240,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-7.png",
-    "xws": "masf7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-6.png",
+    "xws": "fhmasf6"
   },
   {
-    "name": "ma-sf-8",
+    "name": "fh-ma-sf-7",
     "points": 241,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-8.png",
-    "xws": "masf8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-7.png",
+    "xws": "fhmasf7"
   },
   {
-    "name": "ma-sf-back",
+    "name": "fh-ma-sf-8",
     "points": 242,
-    "image": "monster-ability-cards/shrike-fiend/ma-sf-back.png",
-    "xws": "masfback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-ma-sf-8.png",
+    "xws": "fhmasf8"
+  },
+  {
+    "name": "shrike fiend back",
+    "points": 243,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-shrike-fiend-back.png",
+    "xws": "shrike-fiend-back"
   },
   {
     "name": "angry cloud",
-    "points": 243,
-    "image": "monster-ability-cards/shrike-fiend/angry-cloud.png",
+    "points": 244,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-angry-cloud.png",
     "xws": "angrycloud"
   },
   {
     "name": "birds of prey",
-    "points": 244,
-    "image": "monster-ability-cards/shrike-fiend/birds-of-prey.png",
+    "points": 245,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-birds-of-prey.png",
     "xws": "birdsofprey"
   },
   {
     "name": "concentrated flock",
-    "points": 245,
-    "image": "monster-ability-cards/shrike-fiend/concentrated-flock.png",
+    "points": 246,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-concentrated-flock.png",
     "xws": "concentratedflock"
   },
   {
     "name": "darken the skies",
-    "points": 246,
-    "image": "monster-ability-cards/shrike-fiend/darken-the-skies.png",
+    "points": 247,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-darken-the-skies.png",
     "xws": "darkentheskies"
   },
   {
     "name": "dive bombs",
-    "points": 247,
-    "image": "monster-ability-cards/shrike-fiend/dive-bombs.png",
+    "points": 248,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-dive-bombs.png",
     "xws": "divebombs"
   },
   {
     "name": "fiendish charge",
-    "points": 248,
-    "image": "monster-ability-cards/shrike-fiend/fiendish-charge.png",
+    "points": 249,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-fiendish-charge.png",
     "xws": "fiendishcharge"
   },
   {
     "name": "gather the flock",
-    "points": 249,
-    "image": "monster-ability-cards/shrike-fiend/gather-the-flock.png",
+    "points": 250,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-gather-the-flock.png",
     "xws": "gathertheflock"
   },
   {
     "name": "nothing special",
-    "points": 250,
-    "image": "monster-ability-cards/shrike-fiend/nothing-special.png",
+    "points": 251,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/shrike-fiend/fh-nothing-special.png",
     "xws": "nothingspecial"
   },
   {
-    "name": "shrike fiend back",
-    "points": 251,
-    "image": "monster-ability-cards/shrike-fiend/shrike-fiend-back.png",
-    "xws": "shrike-fiend-back"
-  },
-  {
-    "name": "ma-sa-1",
+    "name": "fh-ma-sa-back",
     "points": 252,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-1.png",
-    "xws": "masa1"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-back.png",
+    "xws": "fhmasaback"
   },
   {
-    "name": "ma-sa-2",
+    "name": "fh-ma-sa-1",
     "points": 253,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-2.png",
-    "xws": "masa2"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-1.png",
+    "xws": "fhmasa1"
   },
   {
-    "name": "ma-sa-3",
+    "name": "fh-ma-sa-2",
     "points": 254,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-3.png",
-    "xws": "masa3"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-2.png",
+    "xws": "fhmasa2"
   },
   {
-    "name": "ma-sa-4",
+    "name": "fh-ma-sa-3",
     "points": 255,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-4.png",
-    "xws": "masa4"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-3.png",
+    "xws": "fhmasa3"
   },
   {
-    "name": "ma-sa-5",
+    "name": "fh-ma-sa-4",
     "points": 256,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-5.png",
-    "xws": "masa5"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-4.png",
+    "xws": "fhmasa4"
   },
   {
-    "name": "ma-sa-6",
+    "name": "fh-ma-sa-5",
     "points": 257,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-6.png",
-    "xws": "masa6"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-5.png",
+    "xws": "fhmasa5"
   },
   {
-    "name": "ma-sa-7",
+    "name": "fh-ma-sa-6",
     "points": 258,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-7.png",
-    "xws": "masa7"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-6.png",
+    "xws": "fhmasa6"
   },
   {
-    "name": "ma-sa-8",
+    "name": "fh-ma-sa-7",
     "points": 259,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-8.png",
-    "xws": "masa8"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-7.png",
+    "xws": "fhmasa7"
   },
   {
-    "name": "ma-sa-back",
+    "name": "fh-ma-sa-8",
     "points": 260,
-    "image": "monster-ability-cards/steel-automaton/ma-sa-back.png",
-    "xws": "masaback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-ma-sa-8.png",
+    "xws": "fhmasa8"
+  },
+  {
+    "name": "steel automaton back",
+    "points": 261,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-steel-automaton-back.png",
+    "xws": "steelautomatonback"
   },
   {
     "name": "body block",
-    "points": 261,
-    "image": "monster-ability-cards/steel-automaton/body-block.png",
+    "points": 262,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-body-block.png",
     "xws": "bodyblock"
   },
   {
     "name": "calculated strike",
-    "points": 262,
-    "image": "monster-ability-cards/steel-automaton/calculated-strike.png",
+    "points": 263,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-calculated-strike.png",
     "xws": "calculatedstrike"
   },
   {
     "name": "clobber",
-    "points": 263,
-    "image": "monster-ability-cards/steel-automaton/clobber.png",
+    "points": 264,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-clobber.png",
     "xws": "clobber"
   },
   {
     "name": "heavy footfalls",
-    "points": 264,
-    "image": "monster-ability-cards/steel-automaton/heavy-footfalls.png",
+    "points": 265,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-heavy-footfalls.png",
     "xws": "heavyfootfalls"
   },
   {
     "name": "immovable object",
-    "points": 265,
-    "image": "monster-ability-cards/steel-automaton/immovable-object.png",
+    "points": 266,
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-immovable-object.png",
     "xws": "immovableobject"
   },
   {
     "name": "nothing special",
-    "points": 266,
-    "image": "monster-ability-cards/steel-automaton/nothing-special.png",
-    "xws": "nothingspecial"
-  },
-  {
-    "name": "steel automaton back",
     "points": 267,
-    "image": "monster-ability-cards/steel-automaton/steel-automaton-back.png",
-    "xws": "steelautomatonback"
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-nothing-special.png",
+    "xws": "nothingspecial"
   },
   {
     "name": "tank mode",
     "points": 268,
-    "image": "monster-ability-cards/steel-automaton/tank-mode.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-tank-mode.png",
     "xws": "tankmode"
   },
   {
     "name": "unstoppable force",
     "points": 269,
-    "image": "monster-ability-cards/steel-automaton/unstoppable-force.png",
+    "expansion": "Frosthaven",
+    "image": "monster-ability-cards/frosthaven/steel-automaton/fh-unstoppable-force.png",
     "xws": "unstoppableforce"
   }
 ]
