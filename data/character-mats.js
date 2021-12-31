@@ -1,74 +1,86 @@
 [
   {
     "name": "banner spear",
-    "points": 0,
-    "image": "character-mats/banner-spear.png",
+    "points": 60,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-banner-spear.png",
     "xws": "bannerspear"
   },
   {
     "name": "banner spear",
-    "points": 1,
-    "image": "character-mats/banner-spear-back.png",
+    "points": 61,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-banner-spear-back.png",
     "xws": "bannerspear"
   },
   {
     "name": "blinkblade",
-    "points": 2,
-    "image": "character-mats/blinkblade.png",
+    "points": 62,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-blinkblade.png",
     "xws": "blinkblade"
   },
   {
     "name": "blinkblade",
-    "points": 3,
-    "image": "character-mats/blinkblade-back.png",
+    "points": 63,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-blinkblade-back.png",
     "xws": "blinkblade"
   },
   {
     "name": "boneshaper",
-    "points": 4,
-    "image": "character-mats/boneshaper.png",
+    "points": 64,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-boneshaper.png",
     "xws": "boneshaper"
   },
   {
     "name": "boneshaper",
-    "points": 5,
-    "image": "character-mats/boneshaper-back.png",
+    "points": 65,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-boneshaper-back.png",
     "xws": "boneshaper"
   },
   {
     "name": "deathwalker",
-    "points": 6,
-    "image": "character-mats/deathwalker.png",
+    "points": 66,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-deathwalker.png",
     "xws": "deathwalker"
   },
   {
     "name": "deathwalker",
-    "points": 7,
-    "image": "character-mats/deathwalker-back.png",
+    "points": 67,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-deathwalker-back.png",
     "xws": "deathwalker"
   },
   {
     "name": "drifter",
-    "points": 8,
-    "image": "character-mats/drifter.png",
+    "points": 68,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-drifter.png",
     "xws": "drifter"
   },
   {
     "name": "drifter",
-    "points": 9,
-    "image": "character-mats/drifter-back.png",
+    "points": 69,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-drifter-back.png",
     "xws": "drifter"
   },
   {
     "name": "geminate",
-    "points": 10,
-    "image": "character-mats/geminate.png",
+    "points": 70,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-geminate.png",
     "xws": "geminate"
   },
   {
     "name": "geminate",
-    "points": 11,
-    "image": "character-mats/geminate-back.png",
+    "points": 71,
+    "expansion": "Frosthaven",
+    "image": "character-mats/frosthaven/fh-geminate-back.png",
     "xws": "geminate"
   }
 ]
