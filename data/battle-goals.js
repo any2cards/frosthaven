@@ -28,11 +28,11 @@
     "xws": "ascetic"
   },
   {
-    "name": "assasin",
+    "name": "assassin",
     "points": 4,
     "expansion": "Frosthaven",
-    "image": "battle-goals/frosthaven/fh-assasin.png",
-    "xws": "assasin"
+    "image": "battle-goals/frosthaven/fh-assassin.png",
+    "xws": "assassin"
   },
   {
     "name": "assistant",
@@ -189,11 +189,11 @@
     "xws": "opener"
   },
   {
-    "name": "optimist back",
+    "name": "optimist",
     "points": 27,
     "expansion": "Frosthaven",
-    "image": "battle-goals/frosthaven/fh-optimist-back.png",
-    "xws": "optimistback"
+    "image": "battle-goals/frosthaven/fh-optimist.png",
+    "xws": "optimist"
   },
   {
     "name": "overachiever",
