@@ -5,5 +5,5 @@
     "expansion": "Frosthaven",
     "image": "random-dungeons/frosthaven/fh-dummy-record.png",
     "xws": "fhdummyrecord"
-  },
+  }
 ]

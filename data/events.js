@@ -5,5 +5,5 @@
     "expansion": "Frosthaven",
     "image": "events/frosthaven/fh-dummy-record.png",
     "xws": "fhdummyrecord"
-  },
+  }
 ]
