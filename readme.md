@@ -80,8 +80,6 @@ A list of projects that use this content:
 
 - [FH Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/frosthaven-card-viewer/) (Firefox Add-On)
 
-Want your project listed here? [Let us know!](https://github.com/any2cards/frosthaven/issues/new?title=Add%20Project)
-
 ## Versioning
 
 This project uses [SemVer](http://semver.org/). Given a `MAJOR.MINOR.PATCH` version number, we will increment the:
