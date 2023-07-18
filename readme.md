@@ -52,14 +52,6 @@ The `images` folder contains all FH Card Viewer images for each of the above com
 
 The `xwc` folder contains all of the files that power the FH Card Viewer Chrome Extension/Firefox Add-On.
 
-## Usage
-
-You can use this data to build your own apps, etc.
-
-The easiest way to do this is via [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
-
-* Git submodule: `git submodule add https://github.com/any2cards/frosthaven.git`
-
 ## Bugs / Issues
 
 Please [open a ticket](https://github.com/any2cards/frosthaven/issues/new) on Github.
