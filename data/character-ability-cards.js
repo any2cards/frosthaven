@@ -2934,7 +2934,7 @@
     "level": "-",
     "initiative": "-",
     "cardno": "-",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "accelerated metabolism",
@@ -2945,7 +2945,7 @@
     "level": "8",
     "initiative": "85",
     "cardno": "181",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "alluring pheromones",
@@ -2956,7 +2956,7 @@
     "level": "7",
     "initiative": "49",
     "cardno": "180",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "changeling's boon",
@@ -2967,7 +2967,7 @@
     "level": "1",
     "initiative": "40",
     "cardno": "154",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "chitinous horde",
@@ -2978,7 +2978,7 @@
     "level": "5",
     "initiative": "15",
     "cardno": "176",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "corrosive acids",
@@ -2989,7 +2989,7 @@
     "level": "6",
     "initiative": "28",
     "cardno": "177",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "drag down",
@@ -3000,7 +3000,7 @@
     "level": "1",
     "initiative": "34",
     "cardno": "156",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "dragonfly surge",
@@ -3011,7 +3011,7 @@
     "level": "3",
     "initiative": "50",
     "cardno": "172",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "draining pincers",
@@ -3022,7 +3022,7 @@
     "level": "1",
     "initiative": "72",
     "cardno": "152",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "feeding frenzy",
@@ -3033,7 +3033,7 @@
     "level": "X",
     "initiative": "62",
     "cardno": "159",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "firefly swarm",
@@ -3044,7 +3044,7 @@
     "level": "1",
     "initiative": "76",
     "cardno": "162",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "flailing tendrils",
@@ -3055,7 +3055,7 @@
     "level": "1",
     "initiative": "12",
     "cardno": "155",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "formless grace",
@@ -3066,7 +3066,7 @@
     "level": "5",
     "initiative": "75",
     "cardno": "175",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "hail of thorns",
@@ -3077,7 +3077,7 @@
     "level": "1",
     "initiative": "88",
     "cardno": "166",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "harbinger of ruin",
@@ -3088,7 +3088,7 @@
     "level": "9",
     "initiative": "11",
     "cardno": "183",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "harvest the essence",
@@ -3099,7 +3099,7 @@
     "level": "1",
     "initiative": "60",
     "cardno": "165",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "hirudotherapy",
@@ -3110,7 +3110,7 @@
     "level": "6",
     "initiative": "92",
     "cardno": "178",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "hornbeetle carapace",
@@ -3121,7 +3121,7 @@
     "level": "1",
     "initiative": "20",
     "cardno": "157",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "hornet stingers",
@@ -3132,7 +3132,7 @@
     "level": "1",
     "initiative": "23",
     "cardno": "153",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "icebound quills",
@@ -3143,7 +3143,7 @@
     "level": "1",
     "initiative": "14",
     "cardno": "151",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "into my embrace",
@@ -3154,7 +3154,7 @@
     "level": "1",
     "initiative": "36",
     "cardno": "161",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "locust host",
@@ -3165,7 +3165,7 @@
     "level": "2",
     "initiative": "23",
     "cardno": "170",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "luminous descent",
@@ -3176,7 +3176,7 @@
     "level": "4",
     "initiative": "67",
     "cardno": "174",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "mandible storm",
@@ -3187,7 +3187,7 @@
     "level": "3",
     "initiative": "30",
     "cardno": "171",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "mind spike",
@@ -3198,7 +3198,7 @@
     "level": "1",
     "initiative": "18",
     "cardno": "164",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "oscillating entity",
@@ -3209,7 +3209,7 @@
     "level": "8",
     "initiative": "55",
     "cardno": "182",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "reckless jab",
@@ -3220,7 +3220,7 @@
     "level": "X",
     "initiative": "38",
     "cardno": "158",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "reshape the guise",
@@ -3231,7 +3231,7 @@
     "level": "X",
     "initiative": "38",
     "cardno": "168",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "scarab flight",
@@ -3242,7 +3242,7 @@
     "level": "1",
     "initiative": "30",
     "cardno": "163",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "selfless offering",
@@ -3253,7 +3253,7 @@
     "level": "1",
     "initiative": "27",
     "cardno": "160",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "smoldering hatred",
@@ -3264,7 +3264,7 @@
     "level": "X",
     "initiative": "32",
     "cardno": "167",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "thresh and flail",
@@ -3275,7 +3275,7 @@
     "level": "4",
     "initiative": "43",
     "cardno": "173",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "two-pronged entrapment",
@@ -3286,7 +3286,7 @@
     "level": "7",
     "initiative": "21",
     "cardno": "179",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "venomous barbs",
@@ -3297,7 +3297,7 @@
     "level": "2",
     "initiative": "17",
     "cardno": "169",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "voice of salvation",
@@ -3308,7 +3308,7 @@
     "level": "9",
     "initiative": "39",
     "cardno": "184",
-    "character-xws": "deminate"
+    "character-xws": "geminate"
   },
   {
     "name": "hv-back",
